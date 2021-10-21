@@ -1,4 +1,4 @@
-f#
+#
 # This file contains configuration flags to customize your site
 #
 
@@ -103,3 +103,6 @@ exclude:
 collections:
   speakers:
     output: true
+
+# gems:
+# - jekyll-seo-tag
