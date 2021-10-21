@@ -4,14 +4,18 @@ title: Invited Talks
 permalink: /talks/
 ---
 
-We are pleased to announce the following invited talks.
+We are pleased to announce the following invited talks:
 
-- [Narrative summarization with integrated perception, interpretation, and text generation](https://advancesincognitivesystems.github.io/acs/speakers/andrew_gordon/), [Andrew Gordon](https://ict.usc.edu/news/experts/andrew-gordon/), Director of Interactive Narrative Research, Institute for Creative Technologies
-- [Gary Marcus](http://garymarcus.com/), CEO & Founder, [Robust.ai](https://www.robust.ai/)
-- [_Robots, Language, and Environments: (How) Can Agents Work in the Human World?_](https://advancesincognitivesystems.github.io/acs/speakers/cynthia_matuszek/), [Cynthia Matuszek](https://www.csee.umbc.edu/~cmat/), Assistant Professor, University of Maryland Baltimore
-- [_Semantic Robot Programming... and Maybe Making the World a Better Place_](https://advancesincognitivesystems.github.io/acs/speakers/chad_jenkins/), [Chad Jenkins](https://web.eecs.umich.edu/~ocj/), Professor, University of Michigan
+- **Day 1:** [Title TBD](https://advancesincognitivesystems.github.io/acs/speakers/gerd_gigerenzer/)[Gerd Gigerenzer](https://www.mpib-berlin.mpg.de/staff/gerd-gigerenzer),Director of the Harding Center for Risk Literacy, University of Potsdam
+
+- **Day 2:** [Reconciling knowledge-based and data-driven AI for human-in-the-loop machine learning](https://advancesincognitivesystems.github.io/acs/speakers/ute_schmid), [Ute Schmid](https://www.uni-bamberg.de/en/cogsys/schmid), Head of the Cognitive Systems Group, University of Bamberg
+
+   For many practical applications of machine learning it is appropriate or even necessary to make use of human expertise to compensate a too small amount or low quality of data. Taking into account knowledge which is available in explicit form reduces the amount of data needed for learning. Furthermore, even if domain experts cannot formulate knowledge explicitly, they typically can recognize and correct erroneous decisions or actions. This type of implicit knowledge can be injected into the learning process to guide model adapation. These insights have led to the so-called third wave of AI with a focus on explainablity (XAI). In the talk, I will
+introduce research on explanatory and interactive machine learning. I will present inductive programming as a powerful approach to learn interpretable models in relational domains. Arguing for the need of specific exlanations for different stakeholders and goals, I will introduce different types of explanations based on theories and findings from cognitive science. Furthermore, I will show how intelligent tutor systems and XAI can be combined to support constructive learning. Algorithmic realisations of explanation generation will be complemented with results from psychological experiments investigating the effect on joint human-AI task performance and trust. Finally, current research projects are introduced to illustrate applications of the presented work in medical diagnostics, quality control in industrial production, file management, and accountability.
+
+- **Day 3:** [Title TBD](https://advancesincognitivesystems.github.io/acs/speakers/Anthony_Cohn), [Anthony Cohn](https://eps.leeds.ac.uk/computing/staff/76/professor-anthony-g-cohn-freng-ceng-citp), Professor of Automated Reasoning, University of Leeds
 
 ### Panel Discussions
 
-- [_"Patrick Winston Memorial Colloquium"_](https://advancesincognitivesystems.github.io/acs/day2/) moderated by Dylan Holmes. Invited participants: Mark Finlayson, Sajit Rao, Gary Borchardt
-- [_"How to prepare the next generation of cognitive systems researchers?"_](https://advancesincognitivesystems.github.io/acs/day3/) moderated by Nate Derbinsky. Invited participants: Maithilee Kunda, Tom Williams, Justin Li, Jamie Macbeth. 
+- [_"TBD"_](https://advancesincognitivesystems.github.io/acs/day2/) moderated by XXX. Invited participants: 
+- [_"TBD"_](https://advancesincognitivesystems.github.io/acs/day3/) moderated by XXX. Invited participants:
