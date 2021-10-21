@@ -5,9 +5,8 @@ permalink: /
 
 Advances in Cognitive Systems (ACS) 2021 will be held virtually **November 15-18, 2021**.
 
-[Registration is now open](https://docs.google.com/forms/d/1SYnlZiTsNhAVQdEHxJIlEt0abZx_GgvbpMCABzATjs0/viewform?edit_requested=true)~~.
-
-There is no registration fee.
+[Registration is now open](https://docs.google.com/forms/d/1SYnlZiTsNhAVQdEHxJIlEt0abZx_GgvbpMCABzATjs0/viewform?edit_requested=true).
+There is no registration fee, but registering will allow us to give you access to the online sessions. 
 
 We will contact all registered participants in the week before the conference with information regarding conference technology and logistics. In the meantime, check back for updates to the schedule. You can also follow [@AdvCogSys21](https://twitter.com/AdvCogSys21) on Twitter to get updates.
 
@@ -23,4 +22,4 @@ Learn more about the conference [here](http://www.cogsys.org/conference/2021/). 
 
 ### Sponsors
 ----
-<img src= "{{ site.baseurl }}/images/sift-logo-510.png"  alt="SIFT" style="max-width:150px;">
+<img src= "{{ site.baseurl }}/images/sift-logo-510.png"  alt="SIFT" style="max-width250px;">
