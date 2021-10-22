@@ -315,7 +315,6 @@ p > img {
           margin: 0;
           color: $white;
           cursor: pointer;
-          font-family: 'Crimson Text', serif;
           font-weight: 300;
           font-size: 54px;
           letter-spacing: 1px;
@@ -336,6 +335,7 @@ p > img {
               margin-top: 0;
               line-height: 0.85;
               /* font-family: Arial Narrow, sans-serif; */
+              font-family: 'Crimson Text', serif;
 
               a {
                   color: inherit;
