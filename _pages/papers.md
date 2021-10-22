@@ -56,7 +56,7 @@ David Musliner, Michael Pelican, Matthew McLure, Steven Johnston, Richard Freedm
 
 
 
-## Short talks / Posters
+## Short talks 
 - [Automatic Item Generation of Figural Analogy Problems: A Review and Outlook]({{site.baseurl }}/data/ACS2021_paper_2.pdf).
   Yuan Yang, Deepayan Sanyal, Joel Michelson, James Ainooson and Maithilee Kunda. 
 
