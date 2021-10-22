@@ -60,46 +60,46 @@ David Musliner, Michael Pelican, Matthew McLure, Steven Johnston, Richard Freedm
 - [Automatic Item Generation of Figural Analogy Problems: A Review and Outlook]({{site.baseurl }}/data/ACS2021_paper_2.pdf).
   Yuan Yang, Deepayan Sanyal, Joel Michelson, James Ainooson and Maithilee Kunda. 
 
-- [Language Generation for Broad-Coverage, Explainable Cognitive Systems ]({{site.baseurl }}/data/ACS2021_paper_5.pdf)) .
+- [Language Generation for Broad-Coverage, Explainable Cognitive Systems ]({{site.baseurl }}/data/ACS2021_paper_5.pdf).
   Marjorie McShane and Ivan Leon. 
 
-- [Physical Reasoning in an Open World ]({{ site.baseurl}}/data/ACS2021_paper_7.pdf)) .
+- [Physical Reasoning in an Open World ]({{ site.baseurl}}/data/ACS2021_paper_7.pdf).
 Zhuoran Zeng and Ernest Davis. 
 
-- [Lensing Machines: Representing Perspective in Latent Variable Models ]({{site.baseurl }}/data/ACS2021_paper_10.pdf)) .
+- [Lensing Machines: Representing Perspective in Latent Variable Models ]({{site.baseurl }}/data/ACS2021_paper_10.pdf).
   Karthik Dinakar and Henry Lieberman. 
 
-- [An Initial Description of Capabilities and Constraints for Designing a Computational Auditory System (an Artificial Ear) for Cognitive Architectures ]({{site.baseurl }}/data/ACS2021_paper_11.pdf)) .
+- [An Initial Description of Capabilities and Constraints for Designing a Computational Auditory System (an Artificial Ear) for Cognitive Architectures ]({{site.baseurl }}/data/ACS2021_paper_11.pdf).
   Frank Ritter, Mathieu Brener and Jeffrey Bolkhovsky. 
 
-- [Operationalizing Tactical Representations ]({{ site.baseurl}}/data/ACS2021_paper_16.pdf)) .
+- [Operationalizing Tactical Representations ]({{ site.baseurl}}/data/ACS2021_paper_16.pdf).
 Thomas Hinrichs and Kenneth Forbus. 
 
-- [Task Modifiers for HTN Planning and Acting ]({{ site.baseurl}}/data/ACS2021_paper_18.pdf)) .
+- [Task Modifiers for HTN Planning and Acting ]({{ site.baseurl}}/data/ACS2021_paper_18.pdf).
 Weihang Yuan, Hector Munoz-Avila, Venkatsampath Gogineni, Sravya Kondrakunta, Michael Cox and Lifang He. 
 
-- [Structural Alignment as an Abductive Integer Linear Programming Problem ]({{site.baseurl }}/data/ACS2021_paper_19.pdf)) .
+- [Structural Alignment as an Abductive Integer Linear Programming Problem ]({{site.baseurl }}/data/ACS2021_paper_19.pdf).
   Clifton McFate. 
 
-- [Signature Entrenchment and Conceptual Changes in Automated Theory Repair ]({{site.baseurl }}/data/ACS2021_paper_20.pdf)) .
+- [Signature Entrenchment and Conceptual Changes in Automated Theory Repair ]({{site.baseurl }}/data/ACS2021_paper_20.pdf).
   Xue Li, Alan Bundy and Eugene Philalithis. 
 
-- [From Unstructured Text to Causal Knowledge Graphs: A Transformer-Based Approach ]({{site.baseurl }}/data/ACS2021_paper_21.pdf)) .
+- [From Unstructured Text to Causal Knowledge Graphs: A Transformer-Based Approach ]({{site.baseurl }}/data/ACS2021_paper_21.pdf).
   Scott Friedman, Ian Magnusson, Vasanth Sarathy and Sonja Schmer-Galunder. 
 
-- [An explainability analysis of a sentiment prediction task using a transformer-based attention filter ]({{site.baseurl }}/data/ACS2021_paper_22.pdf)) .
+- [An explainability analysis of a sentiment prediction task using a transformer-based attention filter ]({{site.baseurl }}/data/ACS2021_paper_22.pdf).
   Neşet Özkan Tan, Joshua Bensemann, Diana Benavides-Prado, Yang Chen, Mark Gahegan, Lia Lee, Alex Yuxuan Peng, Patricia Riddle and Michael Witbrock. 
 
-- [Finding Trolls Under Bridges: Preliminary Work on a Motif Detector ]({{site.baseurl }}/data/ACS2021_paper_23.pdf)) .
+- [Finding Trolls Under Bridges: Preliminary Work on a Motif Detector ]({{site.baseurl }}/data/ACS2021_paper_23.pdf).
 W. Victor H. Yarlott, Armando Ochoa, Anurag Acharya, Laurel Bobrow, Diego Castro Estrada, Diana Gomez, Joan Zheng, David McDonald, Chris Miller and Mark Finlayson. 
 
-- [A Computational Perspective on Some Cognitive Illusions ]({{site.baseurl }}/data/ACS2021_paper_25.pdf)) .
+- [A Computational Perspective on Some Cognitive Illusions ]({{site.baseurl }}/data/ACS2021_paper_25.pdf).
 Kenneth Forbus. 
 
-- [A System for Image Understanding using Sensemaking and Narrative ]({{site.baseurl }}/data/ACS2021_paper_26.pdf)) .
+- [A System for Image Understanding using Sensemaking and Narrative ]({{site.baseurl }}/data/ACS2021_paper_26.pdf).
 Zev Battad and Mei Si. 
 
-- [Convolutional Cobweb: A Model of Incremental Learning from 2D Images ]({{site.baseurl }}/data/ACS2021_paper_30.pdf)) .
+- [Convolutional Cobweb: A Model of Incremental Learning from 2D Images ]({{site.baseurl }}/data/ACS2021_paper_30.pdf).
   Christopher Maclellan and Harshil Thakur. 
 
 
