@@ -22,11 +22,11 @@ html {
 
 body {
   background: #fff;
-  font-family: 'Crimson Text', serif;
+  font-family: "Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif; /*'Crimson Text', serif;*/
   color: #404040;
-  line-height: 1.7;
+  line-height: 1.4;
   font-weight: 400;
-  font-size: 24px;
+  font-size: 18px;
   height: 100%;
 }
 
@@ -38,7 +38,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Crimson Text', serif;
+  font-family: "Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif; /*'Crimson Text', serif;*/
   color: $darkerGray;
   font-weight: bold;
 
@@ -55,6 +55,7 @@ h1, h2, h3, h4, h5, h6 {
 h1 {
     font-size: 36px;
     color: inherit;
+    font-family: "Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif; /*'Crimson Text', serif;*/
   a {
       color: inherit;
   }
@@ -302,6 +303,7 @@ p > img {
               text-align: right;
               padding-right: 20px;
               padding-bottom: 8px;
+              font-family: 'Crimson Text', serif;
 
               @include mobile {
                   margin: 3px 0;
@@ -387,7 +389,7 @@ p > img {
 nav {
   float: right;
   margin-top: 23px; // @TODO: Vertically middle align
-  font-family: 'Crimson Text', serif;
+  font-family: "Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif; /*'Crimson Text', serif;*/
   font-size: 24px;
 
   a {
@@ -500,7 +502,7 @@ body:after {
 }
 
 .post h1{
-  font-family: 'Crimson Text', serif;
+  font-family: "Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif; /*'Crimson Text', serif;*/
   text-align: center;
   font-weight: bold;
   font-kerning: auto;
@@ -509,7 +511,7 @@ body:after {
 }
 
 .page h1{
-  font-family: 'Crimson Text', serif;
+  font-family: "Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif; /*'Crimson Text', serif;*/
   text-align: center;
   font-weight: bold;
   font-kerning: auto;
@@ -531,7 +533,7 @@ body:after {
 .cd-container a {
   color: #30434e;
   text-decoration: none;
-  font-family: 'Crimson Text', serif;
+  font-family: "Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif; /*'Crimson Text', serif;*/
 }
 
 .cd-container img {
@@ -539,7 +541,7 @@ body:after {
 }
 
 .cd-container h1, .cd-container h2 {
-  font-family: 'Crimson Text', serif;
+  font-family: "Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif; /*'Crimson Text', serif;*/
   font-weight: bold;
 }
 
@@ -681,7 +683,7 @@ Modules - reusable parts of our design
 }
 
 #carbonads {
-  font-family: 'Crimson Text', serif;
+  font-family: "Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif; /*'Crimson Text', serif;*/
   display: inline-block;
   overflow: hidden;
   max-width: 270px;
