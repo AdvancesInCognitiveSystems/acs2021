@@ -24,7 +24,7 @@ logo: /images/acs_cropped_white.png
 # Includes an icon in the footer for each username you enter
 footer-links:
 #  dribbble:
-  email: acogsys@gmail.com
+  email: advancescogsys2021@gmail.com
 #  facebook:
 #  flickr:
   github: AdvancesInCognitiveSystems
@@ -102,6 +102,8 @@ exclude:
 
 collections:
   speakers:
+    output: true
+  days:
     output: true
 
 # gems:
