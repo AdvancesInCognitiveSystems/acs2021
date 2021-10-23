@@ -1,7 +1,7 @@
 ---
 layout: day
 title:  "Thursday, November 18th"
-
+day: day3
 ---
 
 Please note that all times are Eastern Time (GMT-5). You can watch the [recorded talks](https://www.youtube.com/playlist?list=PL-1wKlUbAzGTjZjLcOduALuoZ3aupVSqe) for this day.  (FIX LINK)
