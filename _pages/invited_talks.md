@@ -6,7 +6,7 @@ permalink: /talks/
 
 We are pleased to announce the following invited talks:
 
-- **Day 1:** [Gerd Gigerenzer](https://advancesincognitivesystems.github.io/acs/speakers/gerd_gigerenzer) -- [Director of the Harding Center for Risk Literacy, University of Potsdam](https://www.mpib-berlin.mpg.de/staff/gerd-gigerenzer)  
+- **Day 1:** [Gerd Gigerenzer]({{ site.baseurl }}/speakers/gerd_gigerenzer) -- [Director of the Harding Center for Risk Literacy, University of Potsdam](https://www.mpib-berlin.mpg.de/staff/gerd-gigerenzer)  
     **Title:** Psychological AI: Simplicity and Transparency in Prediction  
     **Abstract:** Psychological AI is an elaboration of Herbert Simon's original vision of AI, where the "I" refers to human intelligence as simulated by a machine. By studying the heuristics that experts use and programming these into software, it aims to improve the ability of computers to perform cognitive tasks. I argue that psychological AI originally failed because Simon and others applied it to stable situations such as chess, whereas its promise lies in making predictions in unstable environments, similar to those in which the human mind evolved. I discuss cases where amazingly simple psychological heuristics make more accurate predictions than complex big data algorithms such as Google Flu Trends. These insights offer an alternative to current attempts at understandable AI, and can introduce beams of transparency into an ever-darkening black-box society.  
     Gigerenzer, G. (March 2022). How to stay smart in a smart world. London: Penguin.  
@@ -14,12 +14,12 @@ We are pleased to announce the following invited talks:
     
 
 
-- **Day 2:** [Ute Schmid](https://advancesincognitivesystems.github.io/acs/speakers/ute_schmid) -- [Head of the Cognitive Systems Group, University of Bamberg](https://www.uni-bamberg.de/en/cogsys/schmid/)  
+- **Day 2:** [Ute Schmid]({{ site.baseurl }}/speakers/ute_schmid) -- [Head of the Cognitive Systems Group, University of Bamberg](https://www.uni-bamberg.de/en/cogsys/schmid/)  
     **Title:** Reconciling knowledge-based and data-driven AI for human-in-the-loop machine learning  
     **Abstract:** For many practical applications of machine learning it is appropriate or even necessary to make use of human expertise to compensate a too small amount or low quality of data. Taking into account knowledge which is available in explicit form reduces the amount of data needed for learning. Furthermore, even if domain experts cannot formulate knowledge explicitly, they typically can recognize and correct erroneous decisions or actions. This type of implicit knowledge can be injected into the learning process to guide model adapation. These insights have led to the so-called third wave of AI with a focus on explainablity (XAI). In the talk, I will
 introduce research on explanatory and interactive machine learning. I will present inductive programming as a powerful approach to learn interpretable models in relational domains. Arguing for the need of specific exlanations for different stakeholders and goals, I will introduce different types of explanations based on theories and findings from cognitive science. Furthermore, I will show how intelligent tutor systems and XAI can be combined to support constructive learning. Algorithmic realisations of explanation generation will be complemented with results from psychological experiments investigating the effect on joint human-AI task performance and trust. Finally, current research projects are introduced to illustrate applications of the presented work in medical diagnostics, quality control in industrial production, file management, and accountability.
 
-- **Day 3:**  [Anthony Cohn](https://advancesincognitivesystems.github.io/acs/speakers/Anthony_Cohn) --  [Professor of Automated Reasoning, University of Leeds](https://eps.leeds.ac.uk/computing/staff/76/professor-anthony-g-cohn-freng-ceng-citp)  
+- **Day 3:**  [Anthony Cohn]({{ site.baseurl }}/speakers/Anthony_Cohn) --  [Professor of Automated Reasoning, University of Leeds](https://eps.leeds.ac.uk/computing/staff/76/professor-anthony-g-cohn-freng-ceng-citp)  
     **Title:** Manipulation in cluttered environments and interacting with robots  
     **Abstract:** 
     
@@ -27,5 +27,5 @@ introduce research on explanatory and interactive machine learning. I will prese
 
 ### Panel Discussions
 
-- [_"TBD"_](https://advancesincognitivesystems.github.io/acs/day2/)   moderated by XXX. Invited participants: 
-- [_"TBD"_](https://advancesincognitivesystems.github.io/acs/day3/)   moderated by XXX. Invited participants:
+- _"TBD"_: moderated by XXX. Invited participants: 
+- _"TBD"_: moderated by XXX. Invited participants:
