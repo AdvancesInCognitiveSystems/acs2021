@@ -66,13 +66,14 @@ Manipulation in cluttered environments and interacting with robots
   <td>  <b> Break (with Breakout Rooms for short talk discussions) </b> </td>
   </tr>
  <tr>
-  <td> <span class="schedtime"> 2:15 PM - 3:00 PM </span></td><td> <b> Session 11 (Short Talks)</b>
+  <td> <span class="schedtime"> 3:15 PM - 4:00 PM </span></td><td> <b> Session 11 (Short Talks)</b>
 <!-- ###### Chaired by TBD -->
   <ol>
+   <li> <a href="/data/ACS2021_paper_25.pdf">A Computational Perspective on Some Cognitive Illusions</a>, Kenneth Forbus. </li>
    <li> <a href="/data/ACS2021_paper_2.pdf">Automatic Item Generation of Figural Analogy Problems: A Review and Outlook</a>, Yuan Yang, Deepayan Sanyal, Joel Michelson, James Ainooson and Maithilee Kunda.  </li>
    <li> <a href="/data/ACS2021_paper_19.pdf">Structural Alignment as an
   Abductive Integer Linear Programming Problem</a>, Clifton McFate.</li>
-   <li> <a href="/data/ACS2021_paper_25.pdf">A Computational Perspective on Some Cognitive Illusions</a>, Kenneth Forbus. </li>
+
   </ol>
   </td>
 </tr>
