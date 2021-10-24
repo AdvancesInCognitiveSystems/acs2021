@@ -278,9 +278,10 @@ p > img {
   /* border-bottom: 1px solid $lightGray; */
   display: flex;
   flex-direction: row;
-  align-items: flex-end;
-  justify-content: space-between;
+  justify-content: space-evenly;
+  align-content: space-evenly;
   line-height: 1.5;
+  flex-wrap: wrap;
 
   @include mobile {
     text-align: center;
@@ -289,7 +290,8 @@ p > img {
   .titlebox {
       display: flex;
       flex-direction: row;
-      align-items: flex-start;
+      align-items: center;
+      flex-grow: 0;
 
       .title {
           display: flex;
@@ -376,6 +378,21 @@ p > img {
     }
 }
 
+.break {
+    flex-basis: 100%;
+    height: 0;
+}
+
+.navbox {
+    flex-grow: 1;
+    display: flex;
+    align-items: center;
+}
+
+.spacer {
+    flex-grow: 1;
+}
+
 .site-info {
   float: left;
 
@@ -387,11 +404,14 @@ p > img {
 }
 
 nav {
-  float: right;
-  margin-top: 23px; // @TODO: Vertically middle align
+  /* float: right; */
+  /* margin-top: 23px; // @TODO: Vertically middle align */
   font-family: Arial Narrow, sans-serif;
   /* "Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif; */ /*'Crimson Text', serif;*/
   font-size: 18px;
+  flex-grow: 0;
+  display: flex;
+  justify-content: center;
 
   a {
       margin-left: 20px;
