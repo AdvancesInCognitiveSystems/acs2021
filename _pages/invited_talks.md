@@ -27,5 +27,5 @@ introduce research on explanatory and interactive machine learning. I will prese
 
 ### Panel Discussions
 
-- _"TBD"_: moderated by XXX. Invited participants: 
-- _"TBD"_: moderated by XXX. Invited participants:
+- _Cognitive Systems Pedagogy_: An overview of the workshop moderated by Tom Williams. 
+
