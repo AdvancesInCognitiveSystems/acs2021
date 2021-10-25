@@ -102,10 +102,10 @@ collections:
   days:
     output: true
     order:
-      - monday-day0.md
-      - tuesday-day1.md
-      - wednesday-day2.md
-      - thursday-day3.md
+      - monday.md
+      - tuesday.md
+      - wednesday.md
+      - thursday.md
 
 # gems:
 # - jekyll-seo-tag

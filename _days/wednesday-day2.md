@@ -2,7 +2,7 @@
 layout: day
 title:  "Wednesday, November 17th"
 supertitle: Schedule
-day: day2
+day: wednesday-day2
 ---
 
 *Schedule still subject to change. Please note that all times are Eastern Time (GMT-5). Talks will be recorded

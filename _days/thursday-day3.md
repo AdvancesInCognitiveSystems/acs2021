@@ -2,7 +2,7 @@
 layout: day
 title:  "Thursday, November 18th"
 supertitle: Schedule
-day: day3
+day: thursday-day3
 ---
 *Schedule still subject to change. Please note that all times are Eastern Time (GMT-5). Talks will be recorded
 and made available on YouTube. 

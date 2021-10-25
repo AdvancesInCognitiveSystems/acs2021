@@ -10,17 +10,19 @@ layout: default
 
 <!-- put the days across the top -->
 <table  style="width:100%" class="schedule-header">
-<tr>
-  {% for day in site.days %}
-  <td
-    {% if page.day == day.day %}
-    class="selected"
-    {% endif %}
-  >
-    <a href="{{ site.url }}{{ site.baseurl }}{{ day.url }}">{{ day.title }}</a>
-  </td>
-  {% endfor %}
-</tr>
+  <tr>
+    {% assign days = "monday-day0/Monday, November 15th; tuesday-day1/Tuesday, November 16th; wednesday-day2/Wednesday, November 17th; thursday-day3/Thursday, November 18th" | split: "; " %}
+    {% for day in days %}
+    {% assign dayArr = day | split: "/" %}
+    <td
+      {% if page.day == dayArr[0] %}
+      class="selected"
+      {% endif %}
+    >
+      <a href="{{ site.url }}{{ site.baseurl }}/days/{{ dayArr[0] }}/">{{ dayArr[1] }}</a>
+    </td>
+    {% endfor %}
+  </tr>
 </table>
 
 
