@@ -21,7 +21,7 @@ introduce research on explanatory and interactive machine learning. I will prese
 
 - **Day 3:**  [Anthony Cohn]({{ site.baseurl }}/speakers/Anthony_Cohn) --  [Professor of Automated Reasoning, University of Leeds](https://eps.leeds.ac.uk/computing/staff/76/professor-anthony-g-cohn-freng-ceng-citp)  
     **Title:** Manipulation in cluttered environments and interacting with robots  
-    **Abstract:** TBD
+    **Abstract:** Humans, in comparison to robots, are remarkably adept at reaching for objects in cluttered environments. The best existing robot planners are based on random sampling of configuration space- which becomes excessively high-dimensional with large number of objects. Consequently, most planners often fail to efficiently find object manipulation plans in such environments. I will present two methods to address this challenge; firstly, by learning from human demonstrations in VR and learning a model which can be used to build a high level plan which can then be  used to guide a traditional stochastic planner; secondly exploiting human hints at run time to guide a stochastic  trajectory optimising planner. Finally, if time allows, I will talk about how we can take account of human comfort whilst collaboratively working with robots.
     
 
 
