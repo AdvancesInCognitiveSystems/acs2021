@@ -27,5 +27,8 @@ introduce research on explanatory and interactive machine learning. I will prese
 
 ### Panel Discussions
 
-- _Cognitive Systems Pedagogy_: An overview of the workshop moderated by Tom Williams. 
+- Closing day panel still being organized.
+
+<!-- - _Cognitive Systems Pedagogy_: An overview of the workshop moderated by Tom Williams. -->
+
 
