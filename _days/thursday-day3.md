@@ -1,6 +1,7 @@
 ---
 layout: day
 title:  "Thursday, November 18th"
+supertitle: Schedule
 day: day3
 ---
 Please note that all times are Eastern Time (GMT-5). Talks will be recorded

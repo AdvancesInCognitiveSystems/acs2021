@@ -21,7 +21,7 @@ introduce research on explanatory and interactive machine learning. I will prese
 
 - **Day 3:**  [Anthony Cohn]({{ site.baseurl }}/speakers/Anthony_Cohn) --  [Professor of Automated Reasoning, University of Leeds](https://eps.leeds.ac.uk/computing/staff/76/professor-anthony-g-cohn-freng-ceng-citp)  
     **Title:** Manipulation in cluttered environments and interacting with robots  
-    **Abstract:** 
+    **Abstract:** TBD
     
 
 

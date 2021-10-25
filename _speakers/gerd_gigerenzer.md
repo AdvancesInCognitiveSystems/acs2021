@@ -3,7 +3,7 @@ layout: speaker
 name: Gerd Gigerenzer
 role: Director of the Harding Center for Risk Literacy
 institution: University of Potsdam
-date: November 16th, 2021
+#date: November 16th, 2021
 label: November 16th, 2021
 time: 1:00 PM - 1:45 PM EST
 day: day1

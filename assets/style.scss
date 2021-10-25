@@ -41,8 +41,6 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif; /*'Crimson Text', serif;*/
   color: $darkerGray;
   font-weight: bold;
-
-  line-height: 1.7;
   margin: 1em 0 15px;
   padding: 0;
   text-align: center;
@@ -129,7 +127,18 @@ table tr td :first-child {
 
 table tr th :last-child,
 table tr td :last-child {
-	margin-bottom: 0;
+  margin-bottom: 0;
+}
+
+.schedule-header {
+  td {
+    text-align: center;
+    background-color: #f9f9f9;
+    &.selected {
+        background-color: #fff;
+        border-bottom: none;
+    }
+  }
 }
 
 /*.detailed .entry p:first-of-type:first-letter {
@@ -292,11 +301,14 @@ p > img {
       flex-direction: row;
       align-items: center;
       flex-grow: 0;
+      flex-wrap: wrap;
+      justify-content: center;
 
       .title {
           display: flex;
           flex-direction: column;
           margin-top: 5px;
+          line-height: 1.7;
 
           .subtitle {
               margin: -5px 0 0 0;
@@ -306,10 +318,6 @@ p > img {
               padding-right: 20px;
               padding-bottom: 8px;
               font-family: 'Crimson Text', serif;
-
-              @include mobile {
-                  margin: 3px 0;
-              }
           }
       }
 
@@ -327,6 +335,7 @@ p > img {
           flex-direction: row;
           align-items: flex-start;
           margin-top: 0;
+          justify-content: center;
 
           @include mobile {
               text-align: center;
@@ -341,6 +350,10 @@ p > img {
 
               a {
                   color: inherit;
+              }
+
+              @include mobile {
+                  margin-top: 0;
               }
           }
       }
@@ -374,7 +387,7 @@ p > img {
     /* text-shadow: 0 -1px 0 rgb(0 0 0 / 25%); */
 
     img {
-        height: 28px;
+        max-height: 28px;
     }
 }
 
@@ -1214,6 +1227,25 @@ Modules - reusable parts of our design
   }
 }
 
+.flex-row {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+
+    div {
+        margin: 10px;
+    }
+}
+
+.super-title {
+    font-size: 20px;
+    margin-bottom: 8px;
+}
+
+.profile-pic {
+    height: 175px;
+}
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start

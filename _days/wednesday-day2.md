@@ -1,6 +1,7 @@
 ---
 layout: day
 title:  "Wednesday, November 17th"
+supertitle: Schedule
 day: day2
 ---
 

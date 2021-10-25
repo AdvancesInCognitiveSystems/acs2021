@@ -1,6 +1,6 @@
 ---
 layout: day
-title: Schedule
+supertitle: Schedule
 permalink: /schedule/
 ---
 

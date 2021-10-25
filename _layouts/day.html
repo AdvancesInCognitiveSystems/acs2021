@@ -3,30 +3,42 @@ layout: default
 ---
 
 <article class="day">
+
+  {% if page.supertitle %}
+  <h3 class="super-title">{{ page.supertitle }}</h3>
+  {% endif %}
+
 <!-- put the days across the top -->
-<table  style="width:100%">
+<table  style="width:100%" class="schedule-header">
 <tr>
   {% for day in site.days %}
-    <td>
-      <a href="{{ site.url }}{{ site.baseurl }}{{ day.url }}">{{ day.title }}</a>
-    </td>
+  <td
+    {% if page.day == day.day %}
+    class="selected"
+    {% endif %}
+  >
+    <a href="{{ site.url }}{{ site.baseurl }}{{ day.url }}">{{ day.title }}</a>
+  </td>
   {% endfor %}
 </tr>
 </table>
 
 
-
-  <h3>{{ page.title }}</h3>
-  <div class="entry">
+{% if page.title %}
+<h3>{{ page.title }}</h3>
+{% endif %}
+<div class="entry">
     {{ content }}
   </div>
   <div>
     <p><span class="share-box">Share:</span> <a href="http://twitter.com/share?text={{ page.title }}&url={{site.url}}{{page.url}}" target="_blank">Twitter</a>, <a href="https://www.facebook.com/sharer.php?u={{site.url}}{{page.url}}" target="_blank">Facebook</a></p>
   </div>
 
+  {% if page.date %}
   <div class="date">
     Last updated on {{ page.date | date: "%B %e, %Y" }}
   </div>
+  {% endif %}
 
   {% include disqus.html %}
 </article>

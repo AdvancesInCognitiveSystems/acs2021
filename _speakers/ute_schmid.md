@@ -3,7 +3,7 @@ layout: speaker
 name: Ute Schmid
 role: Professor of Cognitive Systems
 institution: Bamberg University
-date: November 17th, 2021
+#date: November 17th, 2021
 label: November 17th, 2021
 time: 1:00 PM - 1:45 PM EST
 day: day2
