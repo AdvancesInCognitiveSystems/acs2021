@@ -5,7 +5,7 @@ supertitle: Schedule
 day: day0
 ---
 
-Please note that all times are Eastern Time (GMT-5). Talks will be recorded
+*Schedule still subject to change. Please note that all times are Eastern Time (GMT-5). Talks will be recorded
 and made available on YouTube. 
 <!-- You can watch the 
      [recorded talks](https://www.youtube.com/playlist?list=PL-1wKlUbAzGTjZjLcOduALuoZ3aupVSqe) for this day.  (FIX LINK) -->
@@ -17,17 +17,25 @@ and made available on YouTube.
 </tr>
 <tr>
 <td> <b> 11:00 - 5:00 PM </b></td>
-<td><a href="https://sravya-kondrakunta.github.io/9thGoal-Reasoning-Workshop/index.html">Workshop on Goal Reasoning</a><br><i> Organized by</i>
+<td><a
+href="https://sravya-kondrakunta.github.io/9thGoal-Reasoning-Workshop/index.html">Workshop
+on Goal Reasoning</a><br>
+<div style="margin-left: 1em">
+<i> Organized by:</i>
 <ul>
 <li>Sravya Kondrakunta</li>
 <li>Zohreh Dannenhauer</li>
 <li>Venkatsampath Raja Gogineni</li>
 </ul>
+</div>
 </td>
-<td><a href="https://sites.google.com/view/pacs-2021">Workshop on Pedagogical Advances in Cognitive Systems</a><br><i> Organized by</i>
+<td><a href="https://sites.google.com/view/pacs-2021">Workshop on Pedagogical Advances in Cognitive Systems</a><br>
+<div style="margin-left: 1em">
+<i> Organized by:</i>
 <ul>
-<li>Dr. Tom Williams </li>
+<li>Tom Williams </li>
 </ul>
+</div>
 </td>
 </tr>
 

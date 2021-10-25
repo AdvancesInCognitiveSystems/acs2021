@@ -4,7 +4,7 @@ title:  "Thursday, November 18th"
 supertitle: Schedule
 day: day3
 ---
-Please note that all times are Eastern Time (GMT-5). Talks will be recorded
+*Schedule still subject to change. Please note that all times are Eastern Time (GMT-5). Talks will be recorded
 and made available on YouTube. 
 <!-- You can watch the 
      [recorded talks](https://www.youtube.com/playlist?list=PL-1wKlUbAzGTjZjLcOduALuoZ3aupVSqe) for this day.  (FIX LINK) -->
@@ -83,13 +83,13 @@ Manipulation in cluttered environments and interacting with robots
   <td>  <b> Break (with Breakout Rooms for short talk discussions) </b> </td>
 </tr>
 <tr>
-  <td> <span class="schedtime"> 4:15 PM - 5:00 PM</span></td>
+  <td> <span class="schedtime"> 4:15 PM - 4:45 PM</span></td>
   <td>  <b> Panel Discussion  - Cognitive Systems Education</b> </td>
 </tr>
 
 <tr>
-  <td> <span class="schedtime"> 5:00 PM </span></td>
-  <td>  <b> Adjourn </b> </td>
+  <td> <span class="schedtime"> 4:45 PM </span></td>
+  <td>  <b> Closing discussion and adjournment </b> </td>
 </tr>
 
 </table>
