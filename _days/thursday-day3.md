@@ -21,10 +21,10 @@ and made available on YouTube.
 <td> <b>  Session 9 </b><br>
 <!-- ###### Chaired by TBD -->
   <ol>
-   <li> <a href="/data/ACS2021_paper_17.pdf">Learning Norms via Natural Language Teachings</a>, Taylor Olson and Ken Forbus. </li>
-   <li> <a href="/data/ACS2021_paper_24.pdf">The Impact of Partner Expressions on Felt Emotion in the Iterated Prisoner’s Dilemma: An Event-level Analysis</a>, M. Angelika-Nikita, C.M. de
+   <li> <a href="{{site.baseurl}}/data/ACS2021_paper_17.pdf">Learning Norms via Natural Language Teachings</a>, Taylor Olson and Ken Forbus. </li>
+   <li> <a href="{{site.baseurl}}/data/ACS2021_paper_24.pdf">The Impact of Partner Expressions on Felt Emotion in the Iterated Prisoner’s Dilemma: An Event-level Analysis</a>, M. Angelika-Nikita, C.M. de
    Melo, K. Terada, G. Lucas, J. Gratch. </li>
-    <li> <a href="/data/ACS2021_paper_15.pdf">Towards a Cognitive Model of
+    <li> <a href="{{site.baseurl}}/data/ACS2021_paper_15.pdf">Towards a Cognitive Model of
     Collaborative Memory</a>, Willa Mannering, Suparana Rajaram, Michael Jones. </li>
   </ol>
   </td>
@@ -36,28 +36,28 @@ and made available on YouTube.
 
 <tr>
   <td> <span class="schedtime"> 1:00 PM - 1:45 PM </span></td><td> 
-<b>  Invited talk - <a href="/speakers/Anthony_Cohn/"> Anthony Cohn</a> </b><br>
+<b>  Invited talk - <a href="{{site.baseurl}}/speakers/Anthony_Cohn/"> Anthony Cohn</a> </b><br>
 <a href="https://eps.leeds.ac.uk/computing/staff/76/professor-anthony-g-cohn-freng-ceng-citp">Professor of Automated Reasoning, University of Leeds</a><br>
 Manipulation in cluttered environments and interacting with robots
   </td>
 </tr>
 <tr>
-  <td> <span class="schedtime"> 1:45 PM - 2:15 PM </span></td><td> <b> Session 9</b>
+  <td> <span class="schedtime"> 1:45 PM - 2:15 PM </span></td><td> <b> Session 10</b>
 <!-- ###### Chaired by TBD -->
   <ol>
-   <li> <a href="/data/ACS2021_paper_3.pdf">Active Observer Visual Problem-Solving Methods are Dynamically Hypothesized, Deployed and Tested</a>, John Tsotsos and Markus Solbach.  </li>
+   <li> <a href="{{site.baseurl}}/data/ACS2021_paper_3.pdf">Active Observer Visual Problem-Solving Methods are Dynamically Hypothesized, Deployed and Tested</a>, John Tsotsos and Markus Solbach.  </li>
   </ol>
   </td>
 </tr>
 <tr>
-  <td> <span class="schedtime"> 2:15 PM - 3:00 PM </span></td><td> <b> Session 10 (Short Talks)</b>
+  <td> <span class="schedtime"> 2:15 PM - 3:00 PM </span></td><td> <b> Session 11 (Short Talks)</b>
 <!-- ###### Chaired by TBD -->
   <ol>
-   <li> <a href="/data/ACS2021_paper_26.pdf">A System for Image Understanding using Sensemaking and Narrative</a>, Zev Battad and Mei Si.  </li>
-   <li> <a href="/data/ACS2021_paper_11.pdf">An Initial Description of
+   <li> <a href="{{site.baseurl}}/data/ACS2021_paper_26.pdf">A System for Image Understanding using Sensemaking and Narrative</a>, Zev Battad and Mei Si.  </li>
+   <li> <a href="{{site.baseurl}}/data/ACS2021_paper_11.pdf">An Initial Description of
   Capabilities and Constraints for Designing a Computational Auditory
   System (an Artificial Ear) for Cognitive Architectures </a>, Frank Ritter, Mathieu Brener and Jeffrey Bolkhovsky. </li>
-   <li> <a href="/data/ACS2021_paper_30.pdf">Convolutional Cobweb: A Model
+   <li> <a href="{{site.baseurl}}/data/ACS2021_paper_30.pdf">Convolutional Cobweb: A Model
   of Incremental Learning from 2D Images</a>, Christopher Maclellan and Harshil Thakur.</li>
   </ol>
   </td>
@@ -67,12 +67,12 @@ Manipulation in cluttered environments and interacting with robots
   <td>  <b> Break (with Breakout Rooms for short talk discussions) </b> </td>
   </tr>
  <tr>
-  <td> <span class="schedtime"> 3:15 PM - 4:00 PM </span></td><td> <b> Session 11 (Short Talks)</b>
+  <td> <span class="schedtime"> 3:15 PM - 4:00 PM </span></td><td> <b> Session 12 (Short Talks)</b>
 <!-- ###### Chaired by TBD -->
   <ol>
-   <li> <a href="/data/ACS2021_paper_25.pdf">A Computational Perspective on Some Cognitive Illusions</a>, Kenneth Forbus. </li>
-   <li> <a href="/data/ACS2021_paper_2.pdf">Automatic Item Generation of Figural Analogy Problems: A Review and Outlook</a>, Yuan Yang, Deepayan Sanyal, Joel Michelson, James Ainooson and Maithilee Kunda.  </li>
-   <li> <a href="/data/ACS2021_paper_19.pdf">Structural Alignment as an
+   <li> <a href="{{site.baseurl}}/data/ACS2021_paper_25.pdf">A Computational Perspective on Some Cognitive Illusions</a>, Kenneth Forbus. </li>
+   <li> <a href="{{site.baseurl}}/data/ACS2021_paper_2.pdf">Automatic Item Generation of Figural Analogy Problems: A Review and Outlook</a>, Yuan Yang, Deepayan Sanyal, Joel Michelson, James Ainooson and Maithilee Kunda.  </li>
+   <li> <a href="{{site.baseurl}}/data/ACS2021_paper_19.pdf">Structural Alignment as an
   Abductive Integer Linear Programming Problem</a>, Clifton McFate.</li>
 
   </ol>
@@ -84,7 +84,7 @@ Manipulation in cluttered environments and interacting with robots
 </tr>
 <tr>
   <td> <span class="schedtime"> 4:15 PM - 4:45 PM</span></td>
-  <td>  <b> Panel Discussion  - Cognitive Systems Education</b> </td>
+  <td>  <b> Panel Discussion  - TBD </b> </td>
 </tr>
 
 <tr>

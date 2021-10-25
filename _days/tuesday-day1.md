@@ -24,9 +24,9 @@ and made available on YouTube.
   <td> <span class="schedtime"> 11:00 AM - 12:30 PM </span></td><td> <b> Session 1 </b>
 <!-- ###### Chaired by TBD -->
   <ol>
-   <li> <a href="/data/ACS2021_paper_6.pdf">An Analysis and Comparison of ACT-R and Soar</a>, John Laird. </li>
-   <li> <a href="/data/ACS2021_paper_9.pdf">Deep Goal Reasoning: An Analysis </a> Weihang Yuan and Hector Munoz-Avila. </li>
-   <li> <a href="/data/ACS2021_paper_1.pdf">Computational Metacognition </a>, Michael Cox, Zahiduddin Mohammad, Sravya
+   <li> <a href="{{site.baseurl}}/data/ACS2021_paper_6.pdf">An Analysis and Comparison of ACT-R and Soar</a>, John Laird. </li>
+   <li> <a href="{{site.baseurl}}/data/ACS2021_paper_9.pdf">Deep Goal Reasoning: An Analysis </a> Weihang Yuan and Hector Munoz-Avila. </li>
+   <li> <a href="{{site.baseurl}}/data/ACS2021_paper_1.pdf">Computational Metacognition </a>, Michael Cox, Zahiduddin Mohammad, Sravya
 Kondrakunta, Ventaksamapth Raja Gogineni, Dustin Dannenhaur, Othalia Larue </li>
   </ol>
   </td>
@@ -37,7 +37,7 @@ Kondrakunta, Ventaksamapth Raja Gogineni, Dustin Dannenhaur, Othalia Larue </li>
 </tr>
 <tr>
   <td> <span class="schedtime"> 1:00 PM - 1:45 PM </span></td><td> 
-<b>  Invited talk - <a href="/speakers/gerd_gigerenzer/"> Gerd
+<b>  Invited talk - <a href="{{site.baseurl}}/speakers/gerd_gigerenzer/"> Gerd
 Gigerenzer</a> </b><br>
 <a href="https://www.mpib-berlin.mpg.de/staff/gerd-gigerenzer">Director of
 the Harding Center for Risk Literacy, University of Potsdam</a><br>
@@ -52,8 +52,8 @@ Psychological AI: Simplicity and Transparency in Prediction
   <td> <span class="schedtime"> 2:00 PM - 3:00 PM </span></td><td> <b> Session 2 </b>
 <!-- ###### Chaired by TBD -->
   <ol>
-   <li> <a href="/data/ACS2021_paper_8.pdf">Rational Selection of Goal Operations</a>, Michael Cox and S. Kondrakunta. </li>
-   <li> <a href="/data/ACS2021_paper_28.pdf">Hierarchical Problem Networks for Knowledge-Based Planning </a>Pat Langley and Howard Shrobe </li>
+   <li> <a href="{{site.baseurl}}/data/ACS2021_paper_8.pdf">Rational Selection of Goal Operations</a>, Michael Cox and S. Kondrakunta. </li>
+   <li> <a href="{{site.baseurl}}/data/ACS2021_paper_28.pdf">Hierarchical Problem Networks for Knowledge-Based Planning </a>Pat Langley and Howard Shrobe </li>
   </ol>
   </td>
 </tr>
@@ -62,11 +62,11 @@ Psychological AI: Simplicity and Transparency in Prediction
   <td> <span class="schedtime"> 3:00 PM - 4:00 PM </span></td><td> <b> Session 3 (Short Talks)</b>
 <!-- ###### Chaired by TBD -->
   <ol>
-   <li> <a href="/data/ACS2021_paper_16.pdf">Operationalizing Tactical
+   <li> <a href="{{site.baseurl}}/data/ACS2021_paper_16.pdf">Operationalizing Tactical
   Representations </a>, Thomas Hinrichs and Kenneth Forbus.  </li>
-   <li> <a href="/data/ACS2021_paper_18.pdf">Task Modifiers for HTN
+   <li> <a href="{{site.baseurl}}/data/ACS2021_paper_18.pdf">Task Modifiers for HTN
   Planning and Acting </a>, W. Yuan, H. Munoz-Avila, V.R.Gogineni, S. Kondrakunta, M. Cox, L. He. </li>
-   <li> <a href="/data/ACS2021_paper_10.pdf">Lensing Machines: Representing Perspective in Latent Variable Models</a>, Karthik Dinakar and Henry Lieberman. </li>
+   <li> <a href="{{site.baseurl}}/data/ACS2021_paper_10.pdf">Lensing Machines: Representing Perspective in Latent Variable Models</a>, Karthik Dinakar and Henry Lieberman. </li>
   </ol>
   </td>
 </tr>
@@ -80,9 +80,9 @@ Psychological AI: Simplicity and Transparency in Prediction
   <td> <span class="schedtime"> 4:00 PM - 5:00 PM </span></td><td> <b> Session 4</b>
 <!-- ###### Chaired by TBD -->
   <ol>
-   <li> <a href="/data/ACS2021_paper_29.pdf">Self-directed Learning of
+   <li> <a href="{{site.baseurl}}/data/ACS2021_paper_29.pdf">Self-directed Learning of
   Action Models using Exploratory Planning </a>, D. Dannenhauer, M. Molineaux, M. Floyd, N. Reifsnyder, D. Aha.  </li>
-   <li> <a href="/data/ACS2021_paper_35.pdf">OpenMIND: Planning and
+   <li> <a href="{{site.baseurl}}/data/ACS2021_paper_35.pdf">OpenMIND: Planning and
   Adapting in Domains with Novelty </a>,  D. Musliner, M. Pelican, M. McLure, S. Johnston, R. Freedman, C. Knutson</li>
   </ol>
   </td>
