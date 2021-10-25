@@ -5,7 +5,7 @@ role: Professor of Cognitive Systems
 institution: Bamberg University
 #date: November 17th, 2021
 label: November 17th, 2021
-time: 1:00 PM - 1:45 PM EST
+time: 1:15 PM - 2:00 PM EST
 day: day2
 website: https://www.uni-bamberg.de/en/cogsys/schmid/
 image: /images/csm_Prof-Ute-Schmid.jpg
