@@ -56,7 +56,7 @@ Manipulation in cluttered environments and interacting with robots
    <li> <a href="{{site.baseurl}}/data/ACS2021_paper_26.pdf">A System for Image Understanding using Sensemaking and Narrative</a>, Zev Battad and Mei Si.  </li>
    <li> <a href="{{site.baseurl}}/data/ACS2021_paper_11.pdf">An Initial Description of
   Capabilities and Constraints for Designing a Computational Auditory
-  System (an Artificial Ear) for Cognitive Architectures </a>, Frank Ritter, Mathieu Brener and Jeffrey Bolkhovsky. </li>
+  System (an Artificial Ear) for Cognitive Architectures</a>, Frank Ritter, Mathieu Brener and Jeffrey Bolkhovsky. </li>
    <li> <a href="{{site.baseurl}}/data/ACS2021_paper_30.pdf">Convolutional Cobweb: A Model
   of Incremental Learning from 2D Images</a>, Christopher Maclellan and Harshil Thakur.</li>
   </ol>

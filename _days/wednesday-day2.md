@@ -31,7 +31,7 @@ and made available on YouTube.
   <ol>
    <li> <a href="{{site.baseurl}}/data/ACS2021_paper_4.pdf">Knowledge Engineering in the Long Game of Artificial Intelligence: The Case of Speech Acts</a>, Marjorie McShane, Jesse
    English, Sergei Nirenburg. </li>
-   <li> <a href="{{site.baseurl}}/data/ACS2021_paper_13.pdf">Language Models as a Knowledge Source for Cognitive Agents </a>, Robert Wray, James Kirk and John Laird. </li>
+   <li> <a href="{{site.baseurl}}/data/ACS2021_paper_13.pdf">Language Models as a Knowledge Source for Cognitive Agents</a>, Robert Wray, James Kirk and John Laird. </li>
   </ol>
   </td>
 </tr>

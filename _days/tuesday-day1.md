@@ -25,8 +25,8 @@ and made available on YouTube.
 <!-- ###### Chaired by TBD -->
   <ol>
    <li> <a href="{{site.baseurl}}/data/ACS2021_paper_6.pdf">An Analysis and Comparison of ACT-R and Soar</a>, John Laird. </li>
-   <li> <a href="{{site.baseurl}}/data/ACS2021_paper_9.pdf">Deep Goal Reasoning: An Analysis </a> Weihang Yuan and Hector Munoz-Avila. </li>
-   <li> <a href="{{site.baseurl}}/data/ACS2021_paper_1.pdf">Computational Metacognition </a>, Michael Cox, Zahiduddin Mohammad, Sravya
+   <li> <a href="{{site.baseurl}}/data/ACS2021_paper_9.pdf">Deep Goal Reasoning: An Analysis</a>, Weihang Yuan and Hector Munoz-Avila. </li>
+   <li> <a href="{{site.baseurl}}/data/ACS2021_paper_1.pdf">Computational Metacognition</a>, Michael Cox, Zahiduddin Mohammad, Sravya
 Kondrakunta, Ventaksamapth Raja Gogineni, Dustin Dannenhaur, Othalia Larue </li>
   </ol>
   </td>
@@ -53,7 +53,8 @@ Psychological AI: Simplicity and Transparency in Prediction
 <!-- ###### Chaired by TBD -->
   <ol>
    <li> <a href="{{site.baseurl}}/data/ACS2021_paper_8.pdf">Rational Selection of Goal Operations</a>, Michael Cox and S. Kondrakunta. </li>
-   <li> <a href="{{site.baseurl}}/data/ACS2021_paper_28.pdf">Hierarchical Problem Networks for Knowledge-Based Planning </a>Pat Langley and Howard Shrobe </li>
+   <li> <a href="{{site.baseurl}}/data/ACS2021_paper_28.pdf">Hierarchical
+  Problem Networks for Knowledge-Based Planning</a>, Pat Langley and Howard Shrobe </li>
   </ol>
   </td>
 </tr>
@@ -63,9 +64,9 @@ Psychological AI: Simplicity and Transparency in Prediction
 <!-- ###### Chaired by TBD -->
   <ol>
    <li> <a href="{{site.baseurl}}/data/ACS2021_paper_16.pdf">Operationalizing Tactical
-  Representations </a>, Thomas Hinrichs and Kenneth Forbus.  </li>
+  Representations</a>, Thomas Hinrichs and Kenneth Forbus.  </li>
    <li> <a href="{{site.baseurl}}/data/ACS2021_paper_18.pdf">Task Modifiers for HTN
-  Planning and Acting </a>, W. Yuan, H. Munoz-Avila, V.R.Gogineni, S. Kondrakunta, M. Cox, L. He. </li>
+  Planning and Acting</a>, W. Yuan, H. Munoz-Avila, V.R.Gogineni, S. Kondrakunta, M. Cox, L. He. </li>
    <li> <a href="{{site.baseurl}}/data/ACS2021_paper_10.pdf">Lensing Machines: Representing Perspective in Latent Variable Models</a>, Karthik Dinakar and Henry Lieberman. </li>
   </ol>
   </td>
@@ -81,9 +82,9 @@ Psychological AI: Simplicity and Transparency in Prediction
 <!-- ###### Chaired by TBD -->
   <ol>
    <li> <a href="{{site.baseurl}}/data/ACS2021_paper_29.pdf">Self-directed Learning of
-  Action Models using Exploratory Planning </a>, D. Dannenhauer, M. Molineaux, M. Floyd, N. Reifsnyder, D. Aha.  </li>
+  Action Models using Exploratory Planning</a>, D. Dannenhauer, M. Molineaux, M. Floyd, N. Reifsnyder, D. Aha.  </li>
    <li> <a href="{{site.baseurl}}/data/ACS2021_paper_35.pdf">OpenMIND: Planning and
-  Adapting in Domains with Novelty </a>,  D. Musliner, M. Pelican, M. McLure, S. Johnston, R. Freedman, C. Knutson</li>
+  Adapting in Domains with Novelty</a>,  D. Musliner, M. Pelican, M. McLure, S. Johnston, R. Freedman, C. Knutson</li>
   </ol>
   </td>
 </tr>
