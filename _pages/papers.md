@@ -51,7 +51,7 @@ Michael Cox, Zahiduddin Mohammad, Sravya Kondrakunta, Venkatsampath Raja Goginen
 - [AVIC: Adaptive Variable Impedance Control for Changing-Contact Robot Manipulation]({{site.baseurl }}/data/ACS2021_paper_34.pdf).
 <br>  Saif Sidhik, Mohan Sridharan and Dirk Ruiken. 
 
-- [OpenMIND: Planning and Adapting in Domains with Novelt ]({{site.baseurl }}/data/ACS2021_paper_35.pdf).
+- [OpenMIND: Planning and Adapting in Domains with Novelty]({{site.baseurl }}/data/ACS2021_paper_35.pdf).
 <br>David Musliner, Michael Pelican, Matthew McLure, Steven Johnston, Richard Freedman and Corey Knutson. 
 
 
