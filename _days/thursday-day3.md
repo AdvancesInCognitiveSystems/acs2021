@@ -23,9 +23,9 @@ and made available on YouTube.
   <ol>
    <li> <a href="{{site.baseurl}}/data/ACS2021_paper_17.pdf">Learning Norms via Natural Language Teachings</a>, Taylor Olson and Ken Forbus. </li>
    <li> <a href="{{site.baseurl}}/data/ACS2021_paper_24.pdf">The Impact of Partner Expressions on Felt Emotion in the Iterated Prisoner’s Dilemma: An Event-level Analysis</a>, M. Angelika-Nikita, C.M. de
-   Melo, K. Terada, G. Lucas, J. Gratch. </li>
+   Melo, K. Terada, G. Lucas and J. Gratch. </li>
     <li> <a href="{{site.baseurl}}/data/ACS2021_paper_15.pdf">Towards a Cognitive Model of
-    Collaborative Memory</a>, Willa Mannering, Suparana Rajaram, Michael Jones. </li>
+    Collaborative Memory</a>, Willa Mannering, Suparana Rajaram and Michael Jones. </li>
   </ol>
   </td>
 </tr>
