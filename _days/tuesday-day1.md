@@ -78,7 +78,7 @@ Psychological AI: Simplicity and Transparency in Prediction
 
 <tr>
   <td> <span class="schedtime"> 3:40 PM - 4:00 PM </span></td>
-  <td>  <b> Break (with a Breakout Rooms for each short talk) </b> </td>
+  <td>  <b> Break (with a Breakout Room for each short talk) </b> </td>
 </tr>
 
 <tr>

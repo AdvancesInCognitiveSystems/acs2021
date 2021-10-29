@@ -78,7 +78,7 @@ Manipulation in cluttered environments and interacting with robots
 </tr>
 <tr>
   <td> <span class="schedtime"> 3:50 PM - 4:15 PM</span></td>
-  <td>  <b> Break (with a Breakout Rooms for each short talk) </b> </td>
+  <td>  <b> Break (with a Breakout Room for each short talk) </b> </td>
 </tr>
 <tr>
   <td> <span class="schedtime"> 4:15 PM - 4:45 PM</span></td>
