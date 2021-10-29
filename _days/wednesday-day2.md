@@ -22,8 +22,8 @@ and made available on YouTube.
 <tr>
 <td> <span class="schedtime"> 11:00 AM - 11:45 AM </span></td>
 <td> <b>  Newell and Simon Talk - <a href="{{site.baseurl}}/speakers/james_allen/"> James Allen</a> </b><br>
-    <a href="https://www.cs.rochester.edu/u/james/">University of Rochester
-    and IHMC, Founding Fellow of AAAI</a><br> Conversational systems: Past, Present and future  </td>
+    <a href="https://www.cs.rochester.edu/u/james/">University of
+    Rochester</a> and <a href="https://www.ihmc.us/groups/jallen/">IHMC</a>, Founding Fellow of AAAI<br> Conversational systems: Past, Present and future  </td>
   </tr>
 
 <tr>
