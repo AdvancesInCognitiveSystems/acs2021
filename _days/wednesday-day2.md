@@ -88,7 +88,7 @@ and made available on YouTube.
 </tr>
 <tr>
   <td> <span class="schedtime">  4:40 PM - 5:00 PM </span></td>
-  <td>  <b> Break (with Breakout Rooms for short talk discussions) </b>
+  <td>  <b> Break (with a Breakout Room for each short talk) </b>
   </td>
   </tr>
   <tr>
