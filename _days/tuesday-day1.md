@@ -12,7 +12,7 @@ and made available on YouTube.
 
 <table>
 <tr>
-<th width=180px> Time </th>
+<th width=190px> Time </th>
 <th> Description </th>
 </tr>
 <tr>
@@ -26,8 +26,8 @@ and made available on YouTube.
   <ol>
    <li> <a href="{{site.baseurl}}/data/ACS2021_paper_6.pdf">An Analysis and Comparison of ACT-R and Soar</a>, John Laird. </li>
    <li> <a href="{{site.baseurl}}/data/ACS2021_paper_9.pdf">Deep Goal Reasoning: An Analysis</a>, Weihang Yuan and Hector Munoz-Avila. </li>
-   <li> <a href="{{site.baseurl}}/data/ACS2021_paper_1.pdf">Computational Metacognition</a>, Michael Cox, Zahiduddin Mohammad, Sravya
-Kondrakunta, Ventaksamapth Raja Gogineni, Dustin Dannenhaur and Othalia Larue </li>
+   <li> <a href="{{site.baseurl}}/data/ACS2021_paper_33.pdf">Scaling Challenges in
+    Explanatory Reasoning</a>,  Pat Langley and Mohan Sridharan.</li>
   </ol>
   </td>
 </tr>
@@ -44,36 +44,40 @@ the Harding Center for Risk Literacy, University of Potsdam</a><br>
 Psychological AI: Simplicity and Transparency in Prediction
   </td>
 </tr>
+
 <tr>
-  <td> <span class="schedtime"> 1:45 PM - 2:00 PM </span></td>
-  <td>  <b> Break</b> </td>
-</tr>
-<tr>
-  <td> <span class="schedtime"> 2:00 PM - 3:00 PM </span></td><td> <b> Session 2 </b>
+  <td> <span class="schedtime"> 1:45 PM - 2:45 PM </span></td><td> <b> Session 2 </b>
 <!-- ###### Chaired by TBD -->
   <ol>
-   <li> <a href="{{site.baseurl}}/data/ACS2021_paper_8.pdf">Rational Selection of Goal Operations</a>, Michael Cox and S. Kondrakunta. </li>
+   <li> <a href="{{site.baseurl}}/data/ACS2021_paper_14.pdf">Scales and Hedges in a Logic with Analogous Semantics</a>, H.R.Schmidtke and S. Coelho.</li>
    <li> <a href="{{site.baseurl}}/data/ACS2021_paper_28.pdf">Hierarchical
   Problem Networks for Knowledge-Based Planning</a>, Pat Langley and Howard Shrobe </li>
   </ol>
   </td>
 </tr>
-
 <tr>
-  <td> <span class="schedtime"> 3:00 PM - 4:00 PM </span></td><td> <b> Session 3 (Short Talks)</b>
+  <td> <span class="schedtime"> 2:45 PM - 3:00 PM </span></td>
+  <td>  <b> Break</b> </td>
+</tr>
+<tr>
+  <td> <span class="schedtime"> 3:00 PM - 3:40 PM </span></td><td> <b> Session 3 (Short Talks)</b>
+    <div class=shortnote>Short talks are 10 minutes plus 2 minutes for
+    questions during changeover.</div> 
 <!-- ###### Chaired by TBD -->
   <ol>
    <li> <a href="{{site.baseurl}}/data/ACS2021_paper_16.pdf">Operationalizing Tactical
   Representations</a>, Thomas Hinrichs and Kenneth Forbus.  </li>
    <li> <a href="{{site.baseurl}}/data/ACS2021_paper_18.pdf">Task Modifiers for HTN
   Planning and Acting</a>, W. Yuan, H. Munoz-Avila, V.R.Gogineni, S. Kondrakunta, M. Cox and L. He. </li>
-   <li> <a href="{{site.baseurl}}/data/ACS2021_paper_10.pdf">Lensing Machines: Representing Perspective in Latent Variable Models</a>, Karthik Dinakar and Henry Lieberman. </li>
+  <li> <a href="{{site.baseurl}}/data/ACS2021_paper_20.pdf">Signature Entrenchment and
+   Conceptual Changes in Automated Theory Repair</a>, Xue Li, Alan Bundy and Eugene Philalithis</li>
+
   </ol>
   </td>
 </tr>
 
 <tr>
-  <td> <span class="schedtime"> 3:45 PM - 4:00 PM </span></td>
+  <td> <span class="schedtime"> 3:40 PM - 4:00 PM </span></td>
   <td>  <b> Break (with Breakout Rooms for short talk discussions) </b> </td>
 </tr>
 
@@ -81,13 +85,15 @@ Psychological AI: Simplicity and Transparency in Prediction
   <td> <span class="schedtime"> 4:00 PM - 5:00 PM </span></td><td> <b> Session 4</b>
 <!-- ###### Chaired by TBD -->
   <ol>
-   <li> <a href="{{site.baseurl}}/data/ACS2021_paper_29.pdf">Self-directed Learning of
-  Action Models using Exploratory Planning</a>, D. Dannenhauer,
-  M. Molineaux, M. Floyd, N. Reifsnyder and D. Aha.  </li>
+
    <li> <a href="{{site.baseurl}}/data/ACS2021_paper_35.pdf">OpenMIND: Planning and
   Adapting in Domains with Novelty</a>,  D. Musliner, M. Pelican, M. McLure, S. Johnston, R. Freedman and C. Knutson</li>
-  </ol>
-  </td>
+    <li> <a href="{{site.baseurl}}/data/ACS2021_paper_24.pdf">The Impact of Partner Expressions on Felt Emotion in the Iterated Prisoner’s Dilemma: An Event-level Analysis</a>, M. Angelika-Nikita, C.M. de
+    Melo, K. Terada, G. Lucas and J. Gratch. </li>
+    
+</ol>
+   </td>
+   
 </tr>
 
 <tr>

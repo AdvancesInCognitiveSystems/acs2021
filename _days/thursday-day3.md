@@ -18,14 +18,17 @@ and made available on YouTube.
 
 <tr>
 <td> <span class="schedtime"> 11:00 AM - 12:30 PM </span></td>
-<td> <b>  Session 9 </b><br>
+<td> <b>  Session 8 </b><br>
 <!-- ###### Chaired by TBD -->
   <ol>
-   <li> <a href="{{site.baseurl}}/data/ACS2021_paper_17.pdf">Learning Norms via Natural Language Teachings</a>, Taylor Olson and Ken Forbus. </li>
-   <li> <a href="{{site.baseurl}}/data/ACS2021_paper_24.pdf">The Impact of Partner Expressions on Felt Emotion in the Iterated Prisoner’s Dilemma: An Event-level Analysis</a>, M. Angelika-Nikita, C.M. de
-   Melo, K. Terada, G. Lucas and J. Gratch. </li>
-    <li> <a href="{{site.baseurl}}/data/ACS2021_paper_15.pdf">Towards a Cognitive Model of
-    Collaborative Memory</a>, Willa Mannering, Suparana Rajaram and Michael Jones. </li>
+   <li> <a href="{{site.baseurl}}/data/ACS2021_paper_1.pdf">Computational Metacognition</a>, Michael Cox, Zahiduddin Mohammad, Sravya
+Kondrakunta, Ventaksamapth Raja Gogineni, Dustin Dannenhaur and Othalia Larue </li>
+     <li> <a href="{{site.baseurl}}/data/ACS2021_paper_29.pdf">Self-directed Learning of
+  Action Models using Exploratory Planning</a>, D. Dannenhauer,
+  M. Molineaux, M. Floyd, N. Reifsnyder and D. Aha.  </li>
+  <li> <a href="{{site.baseurl}}/data/ACS2021_paper_8.pdf">Rational
+  Selection of Goal Operations</a>, Michael Cox and S. Kondrakunta. </li>
+
   </ol>
   </td>
 </tr>
@@ -42,44 +45,38 @@ Manipulation in cluttered environments and interacting with robots
   </td>
 </tr>
 <tr>
-  <td> <span class="schedtime"> 1:45 PM - 2:15 PM </span></td><td> <b> Session 10</b>
+  <td> <span class="schedtime"> 1:45 PM - 2:15 PM </span></td><td> <b> Session 9</b>
 <!-- ###### Chaired by TBD -->
   <ol>
    <li> <a href="{{site.baseurl}}/data/ACS2021_paper_3.pdf">Active Observer Visual Problem-Solving Methods are Dynamically Hypothesized, Deployed and Tested</a>, John Tsotsos and Markus Solbach.  </li>
   </ol>
   </td>
-</tr>
+  </tr>
+  <tr>
+    <td> <span class="schedtime"> 2:15 PM - 2:30 PM </span></td> <td>  <b>
+    Break</b> </td>
+    </tr>
 <tr>
-  <td> <span class="schedtime"> 2:15 PM - 3:00 PM </span></td><td> <b> Session 11 (Short Talks)</b>
+  <td> <span class="schedtime"> 2:30 PM - 3:50 PM </span></td><td> <b> Session 10 (Short Talks)</b> 
+<span class=shortnote>10 minutes + 3 minutes for 1 question during changeover</span>
 <!-- ###### Chaired by TBD -->
   <ol>
-   <li> <a href="{{site.baseurl}}/data/ACS2021_paper_26.pdf">A System for Image Understanding using Sensemaking and Narrative</a>, Zev Battad and Mei Si.  </li>
+   <li> <a href="{{site.baseurl}}/data/ACS2021_paper_26.pdf">A System for
+  Image Understanding using Sensemaking and Narrative</a>, Zev Battad and Mei Si.  </li>
    <li> <a href="{{site.baseurl}}/data/ACS2021_paper_11.pdf">An Initial Description of
   Capabilities and Constraints for Designing a Computational Auditory
   System (an Artificial Ear) for Cognitive Architectures</a>, Frank Ritter, Mathieu Brener and Jeffrey Bolkhovsky. </li>
    <li> <a href="{{site.baseurl}}/data/ACS2021_paper_30.pdf">Convolutional Cobweb: A Model
   of Incremental Learning from 2D Images</a>, Christopher Maclellan and Harshil Thakur.</li>
-  </ol>
-  </td>
-</tr>
-<tr>
-  <td> <span class="schedtime"> 3:00 PM - 3:15 PM </span></td>
-  <td>  <b> Break (with Breakout Rooms for short talk discussions) </b> </td>
-  </tr>
- <tr>
-  <td> <span class="schedtime"> 3:15 PM - 4:00 PM </span></td><td> <b> Session 12 (Short Talks)</b>
-<!-- ###### Chaired by TBD -->
-  <ol>
    <li> <a href="{{site.baseurl}}/data/ACS2021_paper_25.pdf">A Computational Perspective on Some Cognitive Illusions</a>, Kenneth Forbus. </li>
    <li> <a href="{{site.baseurl}}/data/ACS2021_paper_2.pdf">Automatic Item Generation of Figural Analogy Problems: A Review and Outlook</a>, Yuan Yang, Deepayan Sanyal, Joel Michelson, James Ainooson and Maithilee Kunda.  </li>
    <li> <a href="{{site.baseurl}}/data/ACS2021_paper_19.pdf">Structural Alignment as an
   Abductive Integer Linear Programming Problem</a>, Clifton McFate.</li>
-
   </ol>
   </td>
 </tr>
 <tr>
-  <td> <span class="schedtime"> 4:00 PM - 4:15 PM</span></td>
+  <td> <span class="schedtime"> 3:50 PM - 4:15 PM</span></td>
   <td>  <b> Break (with Breakout Rooms for short talk discussions) </b> </td>
 </tr>
 <tr>
