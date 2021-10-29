@@ -6,8 +6,6 @@ permalink: /talks/
 
 We are pleased to announce the following invited talks:
 
-- **Newell and Simon Award Talk** [James Allen]({{ site.baseurl }}/speakers/gerd_gigerenzer) -- [Director of the Harding Center for Risk Literacy, University of Potsdam](https://www.mpib-berlin.mpg.de/staff/gerd-gigerenzer)  
-
 
 - **Day 1:** [Gerd Gigerenzer]({{ site.baseurl }}/speakers/gerd_gigerenzer) -- [Director of the Harding Center for Risk Literacy, University of Potsdam](https://www.mpib-berlin.mpg.de/staff/gerd-gigerenzer)  
     **Title:** Psychological AI: Simplicity and Transparency in Prediction  
@@ -16,9 +14,9 @@ We are pleased to announce the following invited talks:
     Katsikopoulos, K., Simsek, O. & Gigerenzer, G. (2021). Classification in the wild. Cambridge, MA: MIT Press.
 
 - **Day 2:<br>
-Newell and Simon Award Talk:** [James Allen]({{ site.baseurl }}/speakers/james-allen) -- [John H. Dessauer Professor of Computer Science, University of Rochester](https://https://www.cs.rochester.edu/u/james/)<br>
+Newell and Simon Award Talk:** [James Allen]({{ site.baseurl }}/speakers/james_allen) -- [John H. Dessauer Professor of Computer Science, University of Rochester](https://https://www.cs.rochester.edu/u/james/)<br>
 **Title:** Conversational systems: Past, Present and Future<br>
-**Abstract:**<br>
+**Abstract:**Forthcoming.<br>
 
 
 - **Day 2:** [Ute Schmid]({{ site.baseurl }}/speakers/ute_schmid) -- [Head of the Cognitive Systems Group, University of Bamberg](https://www.uni-bamberg.de/en/cogsys/schmid/)  
