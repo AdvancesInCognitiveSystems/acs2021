@@ -6,12 +6,19 @@ permalink: /talks/
 
 We are pleased to announce the following invited talks:
 
+- **Newell and Simon Award Talk** [James Allen]({{ site.baseurl }}/speakers/gerd_gigerenzer) -- [Director of the Harding Center for Risk Literacy, University of Potsdam](https://www.mpib-berlin.mpg.de/staff/gerd-gigerenzer)  
+
+
 - **Day 1:** [Gerd Gigerenzer]({{ site.baseurl }}/speakers/gerd_gigerenzer) -- [Director of the Harding Center for Risk Literacy, University of Potsdam](https://www.mpib-berlin.mpg.de/staff/gerd-gigerenzer)  
     **Title:** Psychological AI: Simplicity and Transparency in Prediction  
     **Abstract:** Psychological AI is an elaboration of Herbert Simon's original vision of AI, where the "I" refers to human intelligence as simulated by a machine. By studying the heuristics that experts use and programming these into software, it aims to improve the ability of computers to perform cognitive tasks. I argue that psychological AI originally failed because Simon and others applied it to stable situations such as chess, whereas its promise lies in making predictions in unstable environments, similar to those in which the human mind evolved. I discuss cases where amazingly simple psychological heuristics make more accurate predictions than complex big data algorithms such as Google Flu Trends. These insights offer an alternative to current attempts at understandable AI, and can introduce beams of transparency into an ever-darkening black-box society.  
     Gigerenzer, G. (March 2022). How to stay smart in a smart world. London: Penguin.  
     Katsikopoulos, K., Simsek, O. & Gigerenzer, G. (2021). Classification in the wild. Cambridge, MA: MIT Press.
-    
+
+- **Day 2:<br>
+Newell and Simon Award Talk:** [James Allen]({{ site.baseurl }}/speakers/james-allen) -- [John H. Dessauer Professor of Computer Science, University of Rochester](https://https://www.cs.rochester.edu/u/james/)<br>
+**Title:** Conversational systems: past, present, future<br>
+**Abstract:**<br>
 
 
 - **Day 2:** [Ute Schmid]({{ site.baseurl }}/speakers/ute_schmid) -- [Head of the Cognitive Systems Group, University of Bamberg](https://www.uni-bamberg.de/en/cogsys/schmid/)  
