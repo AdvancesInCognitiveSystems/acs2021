@@ -12,7 +12,7 @@ and made available on YouTube.
 
 <table>
 <tr>
-<th width=180px> Time </th>
+<th width=190px> Time </th>
 <th> Description </th>
 </tr>
 
@@ -58,7 +58,8 @@ Manipulation in cluttered environments and interacting with robots
     </tr>
 <tr>
   <td> <span class="schedtime"> 2:30 PM - 3:50 PM </span></td><td> <b> Session 10 (Short Talks)</b> 
-<span class=shortnote>10 minutes + 3 minutes for 1 question during changeover</span>
+<div class=shortnote>Short talks are 10 minutes plus 2 minutes for
+    questions during changeover.</div> 
 <!-- ###### Chaired by TBD -->
   <ol>
    <li> <a href="{{site.baseurl}}/data/ACS2021_paper_26.pdf">A System for

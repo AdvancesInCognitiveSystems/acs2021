@@ -12,7 +12,7 @@ and made available on YouTube.
 
 <table>
 <tr>
-<th width=180px> Time </th>
+<th width=190px> Time </th>
 <th> Description </th>
 </tr>
 <tr> <td> <span class="schedtime"> 10:55 AM - 11:00 AM </span></td> <td>
