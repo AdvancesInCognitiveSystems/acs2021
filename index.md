@@ -22,4 +22,4 @@ Learn more about the conference [here](http://www.cogsys.org/conference/2021/). 
 
 ### Sponsors
 ----
-<img src= "{{ site.baseurl }}/images/sift-logo-510.png"  alt="SIFT" style="max-width250px;">
+<div style="text-align:center"><a href="http://www.sift.net/"><img src= "{{ site.baseurl }}/images/sift-logo-510.png"  alt="SIFT" style="max-width250px;"></a></div>
