@@ -17,7 +17,7 @@ We are pleased to announce the following invited talks:
 
 - **Day 2:<br>
 Newell and Simon Award Talk:** [James Allen]({{ site.baseurl }}/speakers/james-allen) -- [John H. Dessauer Professor of Computer Science, University of Rochester](https://https://www.cs.rochester.edu/u/james/)<br>
-**Title:** Conversational systems: past, present, future<br>
+**Title:** Conversational systems: Past, Present and Future<br>
 **Abstract:**<br>
 
 
