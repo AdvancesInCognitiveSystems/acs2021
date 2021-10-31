@@ -72,14 +72,13 @@ and made available on YouTube.
    Broad-Coverage, Explainable Cognitive Systems</a>, Marjorie McShane and Ivan Leon. </li>
   <li> <a href="{{site.baseurl}}/data/ACS2021_paper_7.pdf">Physical Reasoning in an Open
   World</a>, Zhuoran Zeng and Ernest Davis. </li>
+  <li> <a href="{{site.baseurl}}/data/ACS2021_paper_25.pdf">A Computational Perspective on Some Cognitive Illusions</a>, Kenneth Forbus. </li>
   <li> <a href="{{site.baseurl}}/data/ACS2021_paper_21.pdf">From Unstructured Text to
    Causal Knowledge Graphs: A Transformer-Based Approach</a>, Scott Friedman, Ian Magnususon, Vasanth Sarathy and Sonja Schmer-Galunder.
    </li>
    <li> <a href="{{site.baseurl}}/data/ACS2021_paper_23.pdf">Finding Trolls Under Bridges: Preliminary Work on a Motif Detector</a>,
    W.V. Yarlottt, A. Ochoa, A. Acharya, L. Bobrow, D. C. Estrada, D. Gomez,
-   J. Zeng, D. McDonald, C. Miller and M. A. Finlayson</li>
-   <li> <a href="{{site.baseurl}}/data/ACS2021_paper_10.pdf">Lensing Machines: Representing Perspective in Latent Variable Models</a>, Karthik Dinakar and Henry Lieberman. </li>
-   
+   J. Zeng, D. McDonald, C. Miller and M. A. Finlayson</li>   
   <li> <a href="{{site.baseurl}}/data/ACS2021_paper_22.pdf">An explainability analysis of a
    sentiment prediction task using a transformer-based attention
    filter</a>, Neşet Özkan Tan, Joshua Bensemann, Diana Benavides-Prado, Yang Chen, Mark Gahegan, Lia Lee, Alex Yuxuan Peng, Patricia Riddle and Michael Witbrock. </li>
