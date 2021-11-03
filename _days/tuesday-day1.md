@@ -65,13 +65,13 @@ Psychological AI: Simplicity and Transparency in Prediction
     questions during changeover.</div> 
 <!-- ###### Chaired by TBD -->
   <ol>
-   <li> <a href="{{site.baseurl}}/data/ACS2021_paper_16.pdf">Operationalizing Tactical
-  Representations</a>, Thomas Hinrichs and Kenneth Forbus.  </li>
-   <li> <a href="{{site.baseurl}}/data/ACS2021_paper_18.pdf">Task Modifiers for HTN
-  Planning and Acting</a>, W. Yuan, H. Munoz-Avila, V.R.Gogineni, S. Kondrakunta, M. Cox and L. He. </li>
-  <li> <a href="{{site.baseurl}}/data/ACS2021_paper_20.pdf">Signature Entrenchment and
-   Conceptual Changes in Automated Theory Repair</a>, Xue Li, Alan Bundy and Eugene Philalithis</li>
-
+  <li> <a href="{{site.baseurl}}/data/ACS2021_paper_20.pdf">Signature Entrenchment and Conceptual Changes in Automated Theory Repair</a>,
+   Xue Li, Alan Bundy and Eugene Philalithis</li>
+  <li> <a href="{{site.baseurl}}/data/ACS2021_paper_16.pdf">Operationalizing Tactical Representations</a>,
+   Thomas Hinrichs and Kenneth Forbus.  </li>
+  <li> <a href="{{site.baseurl}}/data/ACS2021_paper_21.pdf">From Unstructured Text to Causal Knowledge Graphs: A Transformer-Based Approach</a>,
+   Scott Friedman, Ian Magnususon, Vasanth Sarathy and Sonja Schmer-Galunder.
+   </li>
   </ol>
   </td>
 </tr>
@@ -88,8 +88,8 @@ Psychological AI: Simplicity and Transparency in Prediction
 
    <li> <a href="{{site.baseurl}}/data/ACS2021_paper_35.pdf">OpenMIND: Planning and
   Adapting in Domains with Novelty</a>,  D. Musliner, M. Pelican, M. McLure, S. Johnston, R. Freedman and C. Knutson</li>
-    <li> <a href="{{site.baseurl}}/data/ACS2021_paper_24.pdf">The Impact of Partner Expressions on Felt Emotion in the Iterated Prisoner’s Dilemma: An Event-level Analysis</a>, M. Angelika-Nikita, C.M. de
-    Melo, K. Terada, G. Lucas and J. Gratch. </li>
+
+<li> <a href="{{site.baseurl}}/data/ACS2021_paper_17.pdf">Learning Norms via Natural Language Teachings</a>, Taylor Olson and Ken Forbus. </li>
     
 </ol>
    </td>

@@ -72,8 +72,11 @@ Manipulation in cluttered environments and interacting with robots
   Capabilities and Constraints for Designing a Computational Auditory
   System (an Artificial Ear) for Cognitive Architectures</a>, Frank Ritter, Mathieu Brener and Jeffrey Bolkhovsky. </li>
    <li> <a href="{{site.baseurl}}/data/ACS2021_paper_30.pdf">Convolutional Cobweb: A Model
-  of Incremental Learning from 2D Images</a>, Christopher Maclellan and Harshil Thakur.</li>
-<li> <a href="{{site.baseurl}}/data/ACS2021_paper_10.pdf">Lensing Machines: Representing Perspective in Latent Variable Models</a>, Karthik Dinakar and Henry Lieberman. </li>
+  of Incremental Learning from 2D Images</a>, Christopher Maclellan and
+  Harshil Thakur.</li>
+    <li> <a href="{{site.baseurl}}/data/ACS2021_paper_25.pdf"> A Computational Perspective on Some Cognitive Illusions</a>,
+  Kenneth Forbus. </li>
+  
    <li> <a href="{{site.baseurl}}/data/ACS2021_paper_2.pdf">Automatic Item Generation of Figural Analogy Problems: A Review and Outlook</a>, Yuan Yang, Deepayan Sanyal, Joel Michelson, James Ainooson and Maithilee Kunda.  </li>
    <li> <a href="{{site.baseurl}}/data/ACS2021_paper_19.pdf">Structural Alignment as an
   Abductive Integer Linear Programming Problem</a>, Clifton McFate.</li>
