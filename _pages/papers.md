@@ -18,7 +18,7 @@ Michael Cox, Zahiduddin Mohammad, Sravya Kondrakunta, Venkatsampath Raja Goginen
 - [An Analysis and Comparison of ACT-R and Soar]({{site.baseurl}}/data/ACS2021_paper_6.pdf).
 <br>John Laird.
 
-- [The Rational Selection of Goal Operations and the Integration of Search Strategies with Goal-Driven Marine Autonomy]({{site.baseurl }}/data/ACS2021_paper_8.pdf).
+- [The Rational Selection of Goal Operations and the Integration of Search Strategies with Goal-Driven Autonomy]({{site.baseurl }}/data/ACS2021_paper_8.pdf).
 <br>  Sravya Kondrakunta, Venkatsampath Raja Gogineni, Michael Cox, Demetris Coleman, Xiabao Tan, Tony Lin, Mengxue Hou, Fumin Zhang, Frank McQuarrie and Catherine Edwards.
 
 - [Deep Goal Reasoning: An Analysis]({{ site.baseurl}}/data/ACS2021_paper_9.pdf).
