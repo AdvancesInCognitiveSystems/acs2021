@@ -53,7 +53,9 @@ Manipulation in cluttered environments and interacting with robots
   <td> <span class="schedtime"> 2:15 PM - 2:45 PM </span></td><td> <b> Session 9</b>
 <!-- ###### Chaired by TBD -->
   <ol>
-   <li> <a href="{{site.baseurl}}/data/ACS2021_paper_3.pdf">Active Observer Visual Problem-Solving Methods are Dynamically Hypothesized, Deployed and Tested</a>, John Tsotsos and Markus Solbach.  </li>
+   <li> <a href="{{site.baseurl}}/data/ACS2021_paper_3.pdf">Active Observer
+  Visual Problem-Solving Methods are Dynamically Hypothesized, Deployed and
+  Tested</a>, Markus Solbach and John Tsotsos.  </li>
   </ol>
   </td>
   </tr>

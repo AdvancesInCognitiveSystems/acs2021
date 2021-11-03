@@ -10,7 +10,7 @@ permalink: /papers/
 Michael Cox, Zahiduddin Mohammad, Sravya Kondrakunta, Venkatsampath Raja Gogineni, Dustin Dannenhauer and Othalia Larue.
   
 - [Active Observer Visual Problem-Solving Methods are Dynamically Hypothesized, Deployed and Tested]({{site.baseurl}}/data/ACS2021_paper_3.pdf). <br>
-  John Tsotsos and Markus Solbach.
+  Markus Solbach and John Tsotsos.
 
 - [Knowledge Engineering in the Long Game of Artificial Intelligence: The Case of Speech Acts]({{site.baseurl }}/data/ACS2021_paper_4.pdf).
 <br>  Marjorie McShane, Jesse English and Sergei Nirenburg.
