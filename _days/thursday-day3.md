@@ -27,7 +27,8 @@ Kondrakunta, Ventaksamapth Raja Gogineni, Dustin Dannenhaur and Othalia Larue </
   Action Models using Exploratory Planning</a>, D. Dannenhauer,
   M. Molineaux, M. Floyd, N. Reifsnyder and D. Aha.  </li>
   <li> <a href="{{site.baseurl}}/data/ACS2021_paper_8.pdf">Rational
-  Selection of Goal Operations</a>, Michael Cox and S. Kondrakunta. </li>
+  Selection of Goal Operations and the Integration of Search Strategies with Goal-Driven Autonomy</a>, S. Kondrakuntam V. Gogineni, M. Cox,
+  D. Coleman, X. Tan, T. Lin, M. Hou, F Zhang, F. McQuarrie, C. Edwards. </li>
 
   </ol>
   </td>
