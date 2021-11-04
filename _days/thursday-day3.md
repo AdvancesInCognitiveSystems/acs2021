@@ -21,12 +21,12 @@ and made available on YouTube.
 <td> <b>  Session 8 </b><br>
 <!-- ###### Chaired by TBD -->
   <ol>
-   <li> <a href="{{site.baseurl}}/data/ACS2021_paper_1.pdf">Computational Metacognition</a>, Michael Cox, Zahiduddin Mohammad, Sravya
+   <li> <a href="{{site.baseurl}}/data/ACS-21_paper_1.pdf">Computational Metacognition</a>, Michael Cox, Zahiduddin Mohammad, Sravya
 Kondrakunta, Ventaksamapth Raja Gogineni, Dustin Dannenhaur and Othalia Larue </li>
-     <li> <a href="{{site.baseurl}}/data/ACS2021_paper_29.pdf">Self-directed Learning of
+     <li> <a href="{{site.baseurl}}/data/ACS-21_paper_29.pdf">Self-directed Learning of
   Action Models using Exploratory Planning</a>, D. Dannenhauer,
   M. Molineaux, M. Floyd, N. Reifsnyder and D. Aha.  </li>
-  <li> <a href="{{site.baseurl}}/data/ACS2021_paper_8.pdf">Rational
+  <li> <a href="{{site.baseurl}}/data/ACS-21_paper_8.pdf">Rational
   Selection of Goal Operations and the Integration of Search Strategies with Goal-Driven Autonomy</a>, S. Kondrakuntam V. Gogineni, M. Cox,
   D. Coleman, X. Tan, T. Lin, M. Hou, F Zhang, F. McQuarrie, C. Edwards. </li>
 
@@ -53,7 +53,7 @@ Manipulation in cluttered environments and interacting with robots
   <td> <span class="schedtime"> 2:15 PM - 2:45 PM </span></td><td> <b> Session 9</b>
 <!-- ###### Chaired by TBD -->
   <ol>
-   <li> <a href="{{site.baseurl}}/data/ACS2021_paper_3.pdf">Active Observer
+   <li> <a href="{{site.baseurl}}/data/ACS-21_paper_3.pdf">Active Observer
   Visual Problem-Solving Methods are Dynamically Hypothesized, Deployed and
   Tested</a>, Markus Solbach and John Tsotsos.  </li>
   </ol>
@@ -69,19 +69,19 @@ Manipulation in cluttered environments and interacting with robots
     questions during changeover.</div> 
 <!-- ###### Chaired by TBD -->
   <ol>
-   <li> <a href="{{site.baseurl}}/data/ACS2021_paper_26.pdf">A System for
+   <li> <a href="{{site.baseurl}}/data/ACS-21_paper_26.pdf">A System for
   Image Understanding using Sensemaking and Narrative</a>, Zev Battad and Mei Si.  </li>
-   <li> <a href="{{site.baseurl}}/data/ACS2021_paper_11.pdf">An Initial Description of
+   <li> <a href="{{site.baseurl}}/data/ACS-21_paper_11.pdf">An Initial Description of
   Capabilities and Constraints for Designing a Computational Auditory
   System (an Artificial Ear) for Cognitive Architectures</a>, Frank Ritter, Mathieu Brener and Jeffrey Bolkhovsky. </li>
-   <li> <a href="{{site.baseurl}}/data/ACS2021_paper_30.pdf">Convolutional Cobweb: A Model
+   <li> <a href="{{site.baseurl}}/data/ACS-21_paper_30.pdf">Convolutional Cobweb: A Model
   of Incremental Learning from 2D Images</a>, Christopher Maclellan and
   Harshil Thakur.</li>
-    <li> <a href="{{site.baseurl}}/data/ACS2021_paper_25.pdf"> A Computational Perspective on Some Cognitive Illusions</a>,
+    <li> <a href="{{site.baseurl}}/data/ACS-21_paper_25.pdf"> A Computational Perspective on Some Cognitive Illusions</a>,
   Kenneth Forbus. </li>
   
-   <li> <a href="{{site.baseurl}}/data/ACS2021_paper_2.pdf">Automatic Item Generation of Figural Analogy Problems: A Review and Outlook</a>, Yuan Yang, Deepayan Sanyal, Joel Michelson, James Ainooson and Maithilee Kunda.  </li>
-   <li> <a href="{{site.baseurl}}/data/ACS2021_paper_19.pdf">Structural Alignment as an
+   <li> <a href="{{site.baseurl}}/data/ACS-21_paper_2.pdf">Automatic Item Generation of Figural Analogy Problems: A Review and Outlook</a>, Yuan Yang, Deepayan Sanyal, Joel Michelson, James Ainooson and Maithilee Kunda.  </li>
+   <li> <a href="{{site.baseurl}}/data/ACS-21_paper_19.pdf">Structural Alignment as an
   Abductive Integer Linear Programming Problem</a>, Clifton McFate.</li>
   </ol>
   </td>

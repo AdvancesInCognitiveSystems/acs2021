@@ -24,9 +24,9 @@ and made available on YouTube.
   <td> <span class="schedtime"> 11:00 AM - 12:30 PM </span></td><td> <b> Session 1 </b>
 <!-- ###### Chaired by TBD -->
   <ol>
-   <li> <a href="{{site.baseurl}}/data/ACS2021_paper_6.pdf">An Analysis and Comparison of ACT-R and Soar</a>, John Laird. </li>
-   <li> <a href="{{site.baseurl}}/data/ACS2021_paper_9.pdf">Deep Goal Reasoning: An Analysis</a>, Weihang Yuan and Hector Munoz-Avila. </li>
-   <li> <a href="{{site.baseurl}}/data/ACS2021_paper_33.pdf">Scaling Challenges in
+   <li> <a href="{{site.baseurl}}/data/ACS-21_paper_6.pdf">An Analysis and Comparison of ACT-R and Soar</a>, John Laird. </li>
+   <li> <a href="{{site.baseurl}}/data/ACS-21_paper_9.pdf">Deep Goal Reasoning: An Analysis</a>, Weihang Yuan and Hector Munoz-Avila. </li>
+   <li> <a href="{{site.baseurl}}/data/ACS-21_paper_33.pdf">Scaling Challenges in
     Explanatory Reasoning</a>,  Pat Langley and Mohan Sridharan.</li>
   </ol>
   </td>
@@ -49,8 +49,8 @@ Psychological AI: Simplicity and Transparency in Prediction
   <td> <span class="schedtime"> 1:45 PM - 2:45 PM </span></td><td> <b> Session 2 </b>
 <!-- ###### Chaired by TBD -->
   <ol>
-   <li> <a href="{{site.baseurl}}/data/ACS2021_paper_14.pdf">Scales and Hedges in a Logic with Analogous Semantics</a>, H.R.Schmidtke and S. Coelho.</li>
-   <li> <a href="{{site.baseurl}}/data/ACS2021_paper_28.pdf">Hierarchical
+   <li> <a href="{{site.baseurl}}/data/ACS-21_paper_14.pdf">Scales and Hedges in a Logic with Analogous Semantics</a>, H.R.Schmidtke and S. Coelho.</li>
+   <li> <a href="{{site.baseurl}}/data/ACS-21_paper_28.pdf">Hierarchical
   Problem Networks for Knowledge-Based Planning</a>, Pat Langley and Howard Shrobe </li>
   </ol>
   </td>
@@ -65,11 +65,11 @@ Psychological AI: Simplicity and Transparency in Prediction
     questions during changeover.</div> 
 <!-- ###### Chaired by TBD -->
   <ol>
-  <li> <a href="{{site.baseurl}}/data/ACS2021_paper_20.pdf">Signature Entrenchment and Conceptual Changes in Automated Theory Repair</a>,
+  <li> <a href="{{site.baseurl}}/data/ACS-21_paper_20.pdf">Signature Entrenchment and Conceptual Changes in Automated Theory Repair</a>,
    Xue Li, Alan Bundy and Eugene Philalithis</li>
-  <li> <a href="{{site.baseurl}}/data/ACS2021_paper_16.pdf">Operationalizing Tactical Representations</a>,
+  <li> <a href="{{site.baseurl}}/data/ACS-21_paper_16.pdf">Operationalizing Tactical Representations</a>,
    Thomas Hinrichs and Kenneth Forbus.  </li>
-  <li> <a href="{{site.baseurl}}/data/ACS2021_paper_21.pdf">From Unstructured Text to Causal Knowledge Graphs: A Transformer-Based Approach</a>,
+  <li> <a href="{{site.baseurl}}/data/ACS-21_paper_21.pdf">From Unstructured Text to Causal Knowledge Graphs: A Transformer-Based Approach</a>,
    Scott Friedman, Ian Magnususon, Vasanth Sarathy and Sonja Schmer-Galunder.
    </li>
   </ol>
@@ -86,10 +86,10 @@ Psychological AI: Simplicity and Transparency in Prediction
 <!-- ###### Chaired by TBD -->
   <ol>
 
-   <li> <a href="{{site.baseurl}}/data/ACS2021_paper_35.pdf">OpenMIND: Planning and
+   <li> <a href="{{site.baseurl}}/data/ACS-21_paper_35.pdf">OpenMIND: Planning and
   Adapting in Domains with Novelty</a>,  D. Musliner, M. Pelican, M. McLure, S. Johnston, R. Freedman and C. Knutson</li>
 
-<li> <a href="{{site.baseurl}}/data/ACS2021_paper_17.pdf">Learning Norms via Natural Language Teachings</a>, Taylor Olson and Ken Forbus. </li>
+<li> <a href="{{site.baseurl}}/data/ACS-21_paper_17.pdf">Learning Norms via Natural Language Teachings</a>, Taylor Olson and Ken Forbus. </li>
     
 </ol>
    </td>
