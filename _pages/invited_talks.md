@@ -30,10 +30,19 @@ introduce research on explanatory and interactive machine learning. I will prese
     **Abstract:** Humans, in comparison to robots, are remarkably adept at reaching for objects in cluttered environments. The best existing robot planners are based on random sampling of configuration space- which becomes excessively high-dimensional with large number of objects. Consequently, most planners often fail to efficiently find object manipulation plans in such environments. I will present two methods to address this challenge; firstly, by learning from human demonstrations in VR and learning a model which can be used to build a high level plan which can then be  used to guide a traditional stochastic planner; secondly exploiting human hints at run time to guide a stochastic  trajectory optimising planner. Finally, if time allows, I will talk about how we can take account of human comfort whilst collaboratively working with robots.
     
 
+<li><b>1:45 PM EST: Panel Discussion: Research Directions for Cognitive Systems</b>
+<table style="border-style: none">
+<tr style="border-style: none"> <td width=30px style="border-style: none"></td>
+<td style="border-style: none">
+<b>Abstract:</b> Given recent rapid advances in many areas of Artificial Intelligence, including but not limited to machine learning, access to large data, knowledge-graphs, robotics and autonomous vehicles to name a few, this community has a great opportunity to grow by demonstrating the relevance of its approaches through cross-fertilization with other research that could benefit from a cognitive systems architectural perspective and vice versa.  This panel will lead a group discussion on how we might do that, and thereby encourage more diversity in presentations at this conference.<br>
+<b>Panelists:</b><br>
+<ul>
+<li>Anthony Cohn, University of Leeds</li>
+<li>Ken Forbus, Northwestern Universtity</li>
+<li>John Laird, University of Michigan</li>
+</ul></td></tr></table>
+</li>
 
-### Panel Discussions
-
-- Closing day panel still being organized.
 
 <!-- - _Cognitive Systems Pedagogy_: An overview of the workshop moderated by Tom Williams. -->
 
