@@ -5,7 +5,8 @@ permalink: /
 
 The **Ninth Advances in Cognitive Systems (ACS) Conference** will be held virtually **November 15-18, 2021**.
 
-[Registration is now open](https://docs.google.com/forms/d/1SYnlZiTsNhAVQdEHxJIlEt0abZx_GgvbpMCABzATjs0/viewform?edit_requested=true).
+[*****Registration is now open - Click here.*****](https://docs.google.com/forms/d/1SYnlZiTsNhAVQdEHxJIlEt0abZx_GgvbpMCABzATjs0/viewform?edit_requested=true)
+
 There is no registration fee, but registering will allow us to give you access to the online sessions. 
 
 We will contact all registered participants in the week before the conference with information regarding conference technology and logistics. In the meantime, check back for updates to the schedule. You can also follow [@AdvCogSys21](https://twitter.com/AdvCogSys21) on Twitter to get updates.
