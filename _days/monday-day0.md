@@ -19,7 +19,9 @@ and made available on YouTube.
 href="https://sravya-kondrakunta.github.io/9thGoal-Reasoning-Workshop/index.html">Workshop
 on Goal Reasoning</a><br>
  <span class="schedtime"> 9:30 AM - 5:PM EST </span><br>
-<i>This session will occur on the same Zoom session as the conference.</i>
+<i>This session will occur on the same Zoom session as the
+conference.</i><br>
+<a onClick="goToSlackChannel(110)"> (on Slack #goal-based-reasoning-workshop)</a>
 <div style="margin-left: 1em">
 <i> Organized by:</i>
 <ul>

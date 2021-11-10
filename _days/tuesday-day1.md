@@ -24,10 +24,15 @@ and made available on YouTube.
   <td> <span class="schedtime"> 11:00 AM - 12:30 PM </span></td><td> <b> Session 1 </b>
 <!-- ###### Chaired by TBD -->
   <ol>
-   <li> <a href="{{site.baseurl}}/data/ACS-21_paper_6.pdf">An Analysis and Comparison of ACT-R and Soar</a>, John Laird. <a onClick="goToSlackChannel(6)">(on Slack)</a></li>
-   <li> <a href="{{site.baseurl}}/data/ACS-21_paper_9.pdf">Deep Goal Reasoning: An Analysis</a>, Weihang Yuan and Hector Munoz-Avila. <a onClick="goToSlackChannel(9)">(on Slack)</a></li>
+   <li> <a href="{{site.baseurl}}/data/ACS-21_paper_6.pdf">An Analysis and
+  Comparison of ACT-R and Soar</a>, John Laird. <a
+  onClick="goToSlackChannel(6)"> (on Slack #paper06-laird)</a></li>
+   <li> <a href="{{site.baseurl}}/data/ACS-21_paper_9.pdf">Deep Goal
+  Reasoning: An Analysis</a>, Weihang Yuan and Hector Munoz-Avila. <a
+  onClick="goToSlackChannel(9)"> (on Slack #paper09-yuan)</a></li>
    <li> <a href="{{site.baseurl}}/data/ACS-21_paper_33.pdf">Scaling Challenges in
-    Explanatory Reasoning</a>,  Pat Langley and Mohan Sridharan.<a onClick="goToSlackChannel(33)">(on Slack)</a></li>
+    Explanatory Reasoning</a>,  Pat Langley and Mohan Sridharan.<a
+  onClick="goToSlackChannel(33)"> (on Slack #paper33-langley)</a></li>
   </ol>
   </td>
 </tr>
@@ -41,7 +46,7 @@ and made available on YouTube.
 Gigerenzer</a> </b><br>
 <a href="https://www.mpib-berlin.mpg.de/staff/gerd-gigerenzer">Director of
 the Harding Center for Risk Literacy, University of Potsdam</a><br>
-Psychological AI: Simplicity and Transparency in Prediction
+Psychological AI: Simplicity and Transparency in Prediction  <a onClick="goToSlackChannel(101)"> (on Slack #invited01-gigerenzer)</a>
   </td>
 </tr>
 
@@ -49,9 +54,11 @@ Psychological AI: Simplicity and Transparency in Prediction
   <td> <span class="schedtime"> 1:45 PM - 2:45 PM </span></td><td> <b> Session 2 </b>
 <!-- ###### Chaired by TBD -->
   <ol>
-   <li> <a href="{{site.baseurl}}/data/ACS-21_paper_14.pdf">Scales and Hedges in a Logic with Analogous Semantics</a>, H.R.Schmidtke and S. Coelho.<a onClick="goToSlackChannel(14)">(on Slack)</a></li>
+   <li> <a href="{{site.baseurl}}/data/ACS-21_paper_14.pdf">Scales and
+  Hedges in a Logic with Analogous Semantics</a>, H.R.Schmidtke and
+  S. Coelho.<a onClick="goToSlackChannel(14)"> (on Slack #paper14-schmidtke)</a></li>
    <li> <a href="{{site.baseurl}}/data/ACS-21_paper_28.pdf">Hierarchical
-  Problem Networks for Knowledge-Based Planning</a>, Pat Langley and Howard Shrobe <a onClick="goToSlackChannel(28)">(on Slack)</a></li>
+  Problem Networks for Knowledge-Based Planning</a>, Pat Langley and Howard Shrobe <a onClick="goToSlackChannel(28)"> (on Slack #paper28-langley)</a></li>
   </ol>
   </td>
 </tr>
@@ -66,12 +73,12 @@ Psychological AI: Simplicity and Transparency in Prediction
 <!-- ###### Chaired by TBD -->
   <ol>
   <li> <a href="{{site.baseurl}}/data/ACS-21_paper_20.pdf">Signature Entrenchment and Conceptual Changes in Automated Theory Repair</a>,
-   Xue Li, Alan Bundy and Eugene Philalithis<a onClick="goToSlackChannel(20)">(on Slack)</a></li>
+   Xue Li, Alan Bundy and Eugene Philalithis<a onClick="goToSlackChannel(20)"> (on Slack #paper20-li)</a></li>
   <li> <a href="{{site.baseurl}}/data/ACS-21_paper_16.pdf">Operationalizing Tactical Representations</a>,
-   Thomas Hinrichs and Kenneth Forbus.  <a onClick="goToSlackChannel(16)">(on Slack)</a></li>
+   Thomas Hinrichs and Kenneth Forbus.  <a onClick="goToSlackChannel(16)"> (on Slack #paper16-hinrichs)</a></li>
   <li> <a href="{{site.baseurl}}/data/ACS-21_paper_21.pdf">From Unstructured Text to Causal Knowledge Graphs: A Transformer-Based Approach</a>,
    Scott Friedman, Ian Magnususon, Vasanth Sarathy and Sonja Schmer-Galunder.
-   <a onClick="goToSlackChannel(21)">(on Slack)</a></li>
+   <a onClick="goToSlackChannel(21)"> (on Slack #paper21-friedman)</a></li>
   </ol>
   </td>
 </tr>
@@ -87,9 +94,11 @@ Psychological AI: Simplicity and Transparency in Prediction
   <ol>
 
    <li> <a href="{{site.baseurl}}/data/ACS-21_paper_35.pdf">OpenMIND: Planning and
-  Adapting in Domains with Novelty</a>,  D. Musliner, M. Pelican, M. McLure, S. Johnston, R. Freedman and C. Knutson<a onClick="goToSlackChannel(35)">(on Slack)</a></li>
+  Adapting in Domains with Novelty</a>,  D. Musliner, M. Pelican, M. McLure, S. Johnston, R. Freedman and C. Knutson<a onClick="goToSlackChannel(35)"> (on Slack #paper35-musliner)</a></li>
 
-<li> <a href="{{site.baseurl}}/data/ACS-21_paper_17.pdf">Learning Norms via Natural Language Teachings</a>, Taylor Olson and Ken Forbus. <a onClick="goToSlackChannel(17)">(on Slack)</a></li>
+<li> <a href="{{site.baseurl}}/data/ACS-21_paper_17.pdf">Learning Norms via
+Natural Language Teachings</a>, Taylor Olson and Ken Forbus. <a
+onClick="goToSlackChannel(17)"> (on Slack #paper17-olson)</a></li>
     
 </ol>
    </td>
