@@ -31,8 +31,8 @@ and made available on YouTube.
 <!-- ###### Chaired by TBD -->
   <ol>
    <li> <a href="{{site.baseurl}}/data/ACS-21_paper_4.pdf">Knowledge Engineering in the Long Game of Artificial Intelligence: The Case of Speech Acts</a>, Marjorie McShane, Jesse
-   English and Sergei Nirenburg. </li>
-   <li> <a href="{{site.baseurl}}/data/ACS-21_paper_13.pdf">Language Models as a Knowledge Source for Cognitive Agents</a>, Robert Wray, James Kirk and John Laird. </li>
+   English and Sergei Nirenburg. <a onClick="goToSlackChannel(4)">(on Slack)</a></li>
+   <li> <a href="{{site.baseurl}}/data/ACS-21_paper_13.pdf">Language Models as a Knowledge Source for Cognitive Agents</a>, Robert Wray, James Kirk and John Laird. <a onClick="goToSlackChannel(13)">(on Slack)</a></li>
   </ol>
   </td>
 </tr>
@@ -56,7 +56,8 @@ and made available on YouTube.
     Melo, K. Terada, G. Lucas and J. Gratch. </li>
 
    <li> <a href="{{site.baseurl}}/data/ACS-21_paper_15.pdf">Towards a Cognitive Model of
-    Collaborative Memory</a>, Willa Mannering, Suparana Rajaram and Michael Jones. </li> 
+    Collaborative Memory</a>, Willa Mannering, Suparana Rajaram and Michael
+    Jones. <a onClick="goToSlackChannel(15)">(on Slack)</a> </li> 
     
   </ol>
   </td>
@@ -72,19 +73,19 @@ and made available on YouTube.
 <!-- ###### Chaired by TBD -->
  <ol>
   <li> <a href="{{site.baseurl}}/data/ACS-21_paper_5.pdf">Language Generation for Broad-Coverage, Explainable Cognitive Systems</a>,
-  Marjorie McShane and Ivan Leon. </li>
+  Marjorie McShane and Ivan Leon. <a onClick="goToSlackChannel(5)">(on Slack)</a></li>
   <li> <a href="{{site.baseurl}}/data/ACS-21_paper_7.pdf">Physical Reasoning in an Open World</a>,
-  Zhuoran Zeng and Ernest Davis. </li>
+  Zhuoran Zeng and Ernest Davis. <a onClick="goToSlackChannel(7)">(on Slack)</a></li>
   <li> <a href="{{site.baseurl}}/data/ACS-21_paper_18.pdf">Task Modifiers for HTN Planning and Acting</a>,
-  W. Yuan, H. Munoz-Avila, V.R.Gogineni, S. Kondrakunta, M. Cox and L. He. </li>
+  W. Yuan, H. Munoz-Avila, V.R.Gogineni, S. Kondrakunta, M. Cox and L. He. <a onClick="goToSlackChannel(18)">(on Slack)</a></li>
 
    <li> <a href="{{site.baseurl}}/data/ACS-21_paper_23.pdf">Finding Trolls Under Bridges: Preliminary Work on a Motif Detector</a>,
    W.V. Yarlottt, A. Ochoa, A. Acharya, L. Bobrow, D. C. Estrada, D. Gomez,
-   J. Zeng, D. McDonald, C. Miller and M. A. Finlayson</li>
-   <li> <a href="{{site.baseurl}}/data/ACS-21_paper_10.pdf">Lensing Machines: Representing Perspective in Latent Variable Models</a>, Karthik Dinakar and Henry Lieberman. </li>
+   J. Zeng, D. McDonald, C. Miller and M. A. Finlayson<a onClick="goToSlackChannel(23)">(on Slack)</a></li>
+   <li> <a href="{{site.baseurl}}/data/ACS-21_paper_10.pdf">Lensing Machines: Representing Perspective in Latent Variable Models</a>, Karthik Dinakar and Henry Lieberman. <a onClick="goToSlackChannel(10)">(on Slack)</a></li>
   <li> <a href="{{site.baseurl}}/data/ACS-21_paper_22.pdf">An explainability analysis of a
    sentiment prediction task using a transformer-based attention
-   filter</a>, Neşet Özkan Tan, Joshua Bensemann, Diana Benavides-Prado, Yang Chen, Mark Gahegan, Lia Lee, Alex Yuxuan Peng, Patricia Riddle and Michael Witbrock. </li>
+   filter</a>, Neşet Özkan Tan, Joshua Bensemann, Diana Benavides-Prado, Yang Chen, Mark Gahegan, Lia Lee, Alex Yuxuan Peng, Patricia Riddle and Michael Witbrock. <a onClick="goToSlackChannel(22)">(on Slack)</a></li>
   </ol>
   </td>
 </tr>

@@ -12,14 +12,14 @@ and made available on YouTube.
 
 <table style="width:100%">
 <tr>
-<th style="width:20%"> Time </th>
-<th style="width:40%"> Workshop #1 </th><th> Workshop #2 </th>
+<th style="width:50%"> Workshop #1 </th><th> Workshop #2 </th>
 </tr>
 <tr>
-<td> <b> 11:00 - 5:00 PM </b></td>
 <td><a
 href="https://sravya-kondrakunta.github.io/9thGoal-Reasoning-Workshop/index.html">Workshop
 on Goal Reasoning</a><br>
+ <span class="schedtime"> 9:30 AM - 5:PM EST </span><br>
+<i>This session will occur on the same Zoom session as the conference.</i>
 <div style="margin-left: 1em">
 <i> Organized by:</i>
 <ul>
@@ -30,6 +30,11 @@ on Goal Reasoning</a><br>
 </div>
 </td>
 <td><a href="https://sites.google.com/view/pacs-2021">Workshop on Pedagogical Advances in Cognitive Systems</a><br>
+ <span class="schedtime"> 11:00 AM - 5:PM EST </span><br>
+<i>This session will occur in a Zoom session started by the workshop
+organizers. Registrants will be contacted by Tom Williams directly.</i>
+
+
 <div style="margin-left: 1em">
 <i> Organized by:</i>
 <ul>
