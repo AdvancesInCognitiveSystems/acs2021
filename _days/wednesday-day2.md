@@ -23,7 +23,8 @@ and made available on YouTube.
 <td> <span class="schedtime"> 11:00 AM - 11:45 AM </span></td>
 <td> <b>  Newell and Simon Talk - <a href="{{site.baseurl}}/speakers/james_allen/"> James Allen</a> </b><br>
     <a href="https://www.cs.rochester.edu/u/james/">University of
-    Rochester</a> and <a href="https://www.ihmc.us/groups/jallen/">IHMC</a>, Founding Fellow of AAAI<br> Conversational systems: Past, Present and future  <a onClick="goToSlackChannel(102)"> (on Slack #invited02-allen)</a></td>
+    Rochester</a> and <a href="https://www.ihmc.us/groups/jallen/">IHMC</a>, Founding Fellow of AAAI<br>
+    <a href="{{site.baseurl}}/talks/#allen">Conversational systems: Past, Present and future</a>  <a onClick="goToSlackChannel(102)"> (on Slack #invited02-allen)</a></td>
   </tr>
 
 <tr>
@@ -43,7 +44,7 @@ and made available on YouTube.
   <td> <span class="schedtime"> 1:15 PM - 2:00 PM </span></td><td> 
 <b>  Invited talk - <a href="{{site.baseurl}}/speakers/ute_schmid/">Ute Schmid</a> </b><br>
 <a href="https://www.uni-bamberg.de/en/cogsys/schmid/">Head of the Cognitive Systems Group, University of Bamberg</a>
-<br>Reconciling knowledge-based and data-driven AI for human-in-the-loop
+<br><a href="{{site.baseurl}}/talks/#schmid">Reconciling knowledge-based and data-driven AI for human-in-the-loop</a>
   machine learning <a onClick="goToSlackChannel(103)"> (on Slack #invited103-schmid)</a>
   </td>
   </tr>

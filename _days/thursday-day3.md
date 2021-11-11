@@ -42,12 +42,12 @@ Kondrakunta, Ventaksamapth Raja Gogineni, Dustin Dannenhauer and Othalia Larue <
   <td> <span class="schedtime"> 1:00 PM - 1:45 PM </span></td><td> 
 <b>  Invited talk - <a href="{{site.baseurl}}/speakers/Anthony_Cohn/"> Anthony Cohn</a> </b><br>
 <a href="https://eps.leeds.ac.uk/computing/staff/76/professor-anthony-g-cohn-freng-ceng-citp">Professor of Automated Reasoning, University of Leeds</a><br>
-Manipulation in cluttered environments and interacting with robots  <a onClick="goToSlackChannel(104)"> (on Slack #invited04-cohn)</a>
+<a href="{{site.baseurl}}/talks/#cohn">Manipulation in cluttered environments and interacting with robots</a>  <a onClick="goToSlackChannel(104)"> (on Slack #invited04-cohn)</a>
   </td>
 </tr>
 <tr>
   <td> <span class="schedtime"> 1:45 PM - 2:30 PM</span></td>
-  <td>  <b> Panel Discussion  - Research Directions for Cognitive Systems </b> </td>
+  <td>  <b> Panel Discussion  - <a href="{{site.baseurl}}/talks/#panel">Research Directions for Cognitive Systems</a> </b> </td>
 </tr>
 <tr>
   <td> <span class="schedtime"> 2:30 PM - 3:00 PM </span></td><td> <b> Session 9</b>

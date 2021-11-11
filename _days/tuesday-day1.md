@@ -46,7 +46,7 @@ and made available on YouTube.
 Gigerenzer</a> </b><br>
 <a href="https://www.mpib-berlin.mpg.de/staff/gerd-gigerenzer">Director of
 the Harding Center for Risk Literacy, University of Potsdam</a><br>
-Psychological AI: Simplicity and Transparency in Prediction  <a onClick="goToSlackChannel(101)"> (on Slack #invited01-gigerenzer)</a>
+<a href="{{site.baseurl}}/talks/#gigerenzer">Psychological AI: Simplicity and Transparency in Prediction</a>  <a onClick="goToSlackChannel(101)"> (on Slack #invited01-gigerenzer)</a>
   </td>
 </tr>
 
