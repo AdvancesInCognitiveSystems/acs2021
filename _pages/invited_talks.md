@@ -15,7 +15,7 @@ We are pleased to announce the following invited talks:
     Katsikopoulos, K., Simsek, O. & Gigerenzer, G. (2021). Classification in the wild. Cambridge, MA: MIT Press.
 <span id="allen"></span>
 - **Day 2:**<br>
-**11:00 AM EST: (Newell and Simon Award Talk)** [James Allen]({{ site.baseurl }}/speakers/james_allen) -- [John H. Dessauer Professor of Computer Science, University of Rochester](https://https://www.cs.rochester.edu/u/james/)<br>
+**11:00 AM EST: (Herbert A. Simon Award Talk)** [James Allen]({{ site.baseurl }}/speakers/james_allen) -- [John H. Dessauer Professor of Computer Science, University of Rochester](https://https://www.cs.rochester.edu/u/james/)<br>
 **Title:** Conversational systems: Past, Present and Future<br>
 **Abstract:** A system that can carry on an extended conversation with a person involving substantive content is the holy grail of Artificial Intelligence research.  It has been an active area of research for over fifty years.  This talk will examine the history of ideas and advances, somewhat biased by the work from my research group over the years.  I will also cover recent work in the area involving deep learning and consider whether such techniques bring the dream within reach.  I’ll conclude by examining the tension between the desire for explanatory and inspectable models vs apparently high performing but completely opaque systems,  and speculate on how the future of work in the area will unfold.<br>
 <br><span id="schmid"></span>

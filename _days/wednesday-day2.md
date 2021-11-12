@@ -16,12 +16,12 @@ and made available on YouTube.
 <th> Description </th>
 </tr>
 <tr> <td> <span class="schedtime"> 10:55 AM - 11:00 AM </span></td> <td>
-<b> Newell and Simon Award Presentation </b>  - Pat Langley</td>
+<b> Herbert A. Simon Award Presentation </b>  - Pat Langley</td>
 </tr>
 
 <tr>
 <td> <span class="schedtime"> 11:00 AM - 11:45 AM </span></td>
-<td> <b>  Newell and Simon Talk - <a href="{{site.baseurl}}/speakers/james_allen/"> James Allen</a> </b><br>
+<td> <b>  Herbert A. Simon Award Talk - <a href="{{site.baseurl}}/speakers/james_allen/"> James Allen</a> </b><br>
     <a href="https://www.cs.rochester.edu/u/james/">University of
     Rochester</a> and <a href="https://www.ihmc.us/groups/jallen/">IHMC</a>, Founding Fellow of AAAI<br>
     <a href="{{site.baseurl}}/talks/#allen">Conversational systems: Past, Present and future</a>  <a onClick="goToSlackChannel(102)"> (on Slack #invited02-allen)</a></td>
