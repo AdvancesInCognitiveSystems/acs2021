@@ -21,7 +21,7 @@ and made available on YouTube.
 </tr>
 
 <tr>
-  <td> <span class="schedtime"> 11:00 AM - 12:30 PM </span></td><td> <b> Session 1 </b>
+  <td id="session1"> <span class="schedtime"> 11:00 AM - 12:30 PM </span></td><td> <b> Session 1 </b>
 <!-- ###### Chaired by TBD -->
   <ol>
    <li> <a href="{{site.baseurl}}/data/ACS-21_paper_6.pdf">An Analysis and
@@ -51,7 +51,7 @@ the Harding Center for Risk Literacy, University of Potsdam</a><br>
 </tr>
 
 <tr>
-  <td> <span class="schedtime"> 1:45 PM - 2:45 PM </span></td><td> <b> Session 2 </b>
+  <td id="session2"> <span class="schedtime"> 1:45 PM - 2:45 PM </span></td><td> <b> Session 2 </b>
 <!-- ###### Chaired by TBD -->
   <ol>
    <li> <a href="{{site.baseurl}}/data/ACS-21_paper_14.pdf">Scales and
@@ -67,7 +67,7 @@ the Harding Center for Risk Literacy, University of Potsdam</a><br>
   <td>  <b> Break</b> </td>
 </tr>
 <tr>
-  <td> <span class="schedtime"> 3:00 PM - 3:40 PM </span></td><td> <b> Session 3 (Short Talks)</b>
+  <td id="session3"> <span class="schedtime"> 3:00 PM - 3:40 PM </span></td><td> <b> Session 3 (Short Talks)</b>
     <div class=shortnote>Short talks are 10 minutes plus 2 minutes for
     questions during changeover.</div> 
 <!-- ###### Chaired by TBD -->
@@ -89,7 +89,7 @@ the Harding Center for Risk Literacy, University of Potsdam</a><br>
 </tr>
 
 <tr>
-  <td> <span class="schedtime"> 4:00 PM - 5:00 PM </span></td><td> <b> Session 4</b>
+  <td id="session4"> <span class="schedtime"> 4:00 PM - 5:00 PM </span></td><td> <b> Session 4</b>
 <!-- ###### Chaired by TBD -->
   <ol>
 

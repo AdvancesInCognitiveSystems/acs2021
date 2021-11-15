@@ -25,7 +25,7 @@ and made available on YouTube.
   </tr>
 
 <tr>
-  <td> <span class="schedtime"> 11:45 AM - 12:45 PM </span></td><td> <b> Session 5</b>
+  <td id="session5"> <span class="schedtime"> 11:45 AM - 12:45 PM </span></td><td> <b> Session 5</b>
 <!-- ###### Chaired by TBD -->
   <ol>
    <li> <a href="{{site.baseurl}}/data/ACS-21_paper_4.pdf">Knowledge Engineering in the Long Game of Artificial Intelligence: The Case of Speech Acts</a>, Marjorie McShane, Jesse
@@ -51,7 +51,7 @@ and made available on YouTube.
 
 
 <tr>
-  <td> <span class="schedtime"> 2:00 PM - 3:00 PM </span></td><td> <b> Session 6 </b>
+  <td id="session6"> <span class="schedtime"> 2:00 PM - 3:00 PM </span></td><td> <b> Session 6 </b>
 <!-- ###### Chaired by TBD -->
   <ol>
 
@@ -70,7 +70,7 @@ and made available on YouTube.
     Break</b> </td>
     </tr>
 <tr>
-  <td> <span class="schedtime"> 3:15 PM - 4:40 PM </span></td><td> <b>
+  <td id="session7"> <span class="schedtime"> 3:15 PM - 4:40 PM </span></td><td> <b>
   Session 7 (Short Talks)</b>
   <div class=shortnote>Short talks are 10 minutes plus 2 minutes for questions during changeover.</div>
 <!-- ###### Chaired by TBD -->

@@ -18,7 +18,7 @@ and made available on YouTube.
 
 <tr>
 <td> <span class="schedtime"> 11:00 AM - 12:30 PM </span></td>
-<td> <b>  Session 8 </b><br>
+<td id="session8"> <b>  Session 8 </b><br>
 <!-- ###### Chaired by TBD -->
   <ol>
    <li> <a href="{{site.baseurl}}/data/ACS-21_paper_1.pdf">Computational Metacognition</a>, Michael Cox, Zahiduddin Mohammad, Sravya
@@ -50,7 +50,7 @@ Kondrakunta, Ventaksamapth Raja Gogineni, Dustin Dannenhauer and Othalia Larue <
   <td>  <b> Panel Discussion  - <a href="{{site.baseurl}}/talks/#panel">Research Directions for Cognitive Systems</a> </b> </td>
 </tr>
 <tr>
-  <td> <span class="schedtime"> 2:30 PM - 3:00 PM </span></td><td> <b> Session 9</b>
+  <td id="session9"> <span class="schedtime"> 2:30 PM - 3:00 PM </span></td><td> <b> Session 9</b>
 <!-- ###### Chaired by TBD -->
   <ol>
    <li> <a href="{{site.baseurl}}/data/ACS-21_paper_3.pdf">Active Observer
@@ -64,7 +64,7 @@ Kondrakunta, Ventaksamapth Raja Gogineni, Dustin Dannenhauer and Othalia Larue <
     Break</b> </td>
     </tr>
 <tr>
-  <td> <span class="schedtime"> 3:15 PM - 4:35 PM </span></td><td> <b> Session 10 (Short Talks)</b> 
+  <td id="session10"> <span class="schedtime"> 3:15 PM - 4:35 PM </span></td><td> <b> Session 10 (Short Talks)</b> 
 <div class=shortnote>Short talks are 10 minutes plus 2 minutes for
     questions during changeover.</div> 
 <!-- ###### Chaired by TBD -->
