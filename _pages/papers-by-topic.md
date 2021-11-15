@@ -1,9 +1,10 @@
 ---
 layout: page
-title: Accepted Papers
+title: Papers Organized By Topic
 permalink: /papers-by-topic/
 ---
 
+Links to sessions in the schedule follow each talk listed below. 
 
 ## Cognitive Architecture, Goal Reasoning and Adaptation
 - [Computational Metacognition]({{site.baseurl}}/data/ACS-21_paper_1.pdf).<br>
