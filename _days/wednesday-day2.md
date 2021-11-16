@@ -37,12 +37,12 @@ and made available on YouTube.
 
 <tr> <td> <span class="schedtime"> 12:45 PM - 1:10 PM </span></td> <td>  <b> Break</b> </td> </tr>
 <tr> <td> <span class="schedtime"> 1:10 PM - 1:15 PM </span></td> <td>
-<b> Herbert A. Simon Award Presentation </b>  - Pat Langley</td>
+<b> Herbert A. Simon Prize Winner Presentation </b>  - Pat Langley</td>
 </tr>
 
 <tr>
 <td> <span class="schedtime"> 1:15 PM - 2:00 PM </span></td>
-<td> <b>  Herbert A. Simon Award Talk - <a href="{{site.baseurl}}/speakers/james_allen/"> James Allen</a> </b><br>
+<td> <b>  Herbert A. Simon Prize Talk - <a href="{{site.baseurl}}/speakers/james_allen/"> James Allen</a> </b><br>
     <a href="https://www.cs.rochester.edu/u/james/">University of
     Rochester</a> and <a href="https://www.ihmc.us/groups/jallen/">IHMC</a>, Founding Fellow of AAAI<br>
     <a href="{{site.baseurl}}/talks/#allen">Conversational systems: Past, Present and future</a>  <a onClick="goToSlackChannel(102)"> (on Slack #invited02-allen)</a></td>
