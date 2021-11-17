@@ -84,7 +84,7 @@ and made available on YouTube.
 
    <li> <a href="{{site.baseurl}}/data/ACS-21_paper_23.pdf">Finding Trolls Under Bridges: Preliminary Work on a Motif Detector</a>,
    W.V. Yarlott, A. Ochoa, A. Acharya, L. Bobrow, D. C. Estrada, D. Gomez,
-   J. Zeng, D. McDonald, C. Miller and M. A. Finlayson<a onClick="goToSlackChannel(23)"> (on Slack #paper23-yarlott)</a></li>
+   J. Zheng, D. McDonald, C. Miller and M. A. Finlayson<a onClick="goToSlackChannel(23)"> (on Slack #paper23-yarlott)</a></li>
    <li> <a href="{{site.baseurl}}/data/ACS-21_paper_10.pdf">Lensing Machines: Representing Perspective in Latent Variable Models</a>, Karthik Dinakar and Henry Lieberman. <a onClick="goToSlackChannel(10)"> (on Slack #paper10-dinakar)</a></li>
   <li> <a href="{{site.baseurl}}/data/ACS-21_paper_22.pdf">An explainability analysis of a
    sentiment prediction task using a transformer-based attention
