@@ -30,7 +30,7 @@ and made available on YouTube.
   <ol>
    <li> <a href="{{site.baseurl}}/data/ACS-21_paper_4.pdf">Knowledge Engineering in the Long Game of Artificial Intelligence: The Case of Speech Acts</a>, Marjorie McShane, Jesse
    English and Sergei Nirenburg. <a onClick="goToSlackChannel(4)"> (on Slack #paper04-mcshane)</a></li>
-   <li> <a href="{{site.baseurl}}/data/ACS-21_paper_13.pdf">Language Models as a Knowledge Source for Cognitive Agents</a>, Robert Wray, James Kirk and John Laird. <a onClick="goToSlackChannel(13)"> (on Slack #paper13-mcshane)</a></li>
+   <li> <a href="{{site.baseurl}}/data/ACS-21_paper_13.pdf">Language Models as a Knowledge Source for Cognitive Agents</a>, Robert Wray, James Kirk and John Laird. <a onClick="goToSlackChannel(13)"> (on Slack #paper13-wray)</a></li>
   </ol>
   </td>
 </tr>
