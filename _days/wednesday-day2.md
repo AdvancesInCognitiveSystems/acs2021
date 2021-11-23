@@ -5,8 +5,13 @@ supertitle: Schedule
 day: wednesday-day2
 ---
 
-*Schedule still subject to change. Please note that all times are Eastern Time (GMT-5). Talks will be recorded
-and made available on YouTube. 
+
+*All times are Eastern Time (GMT-5). Talks will be made available on
+ YouTube after December 1.
+
+Paper PDFs are available by clicking on talk titles. For slides, click on
+(S) after title, or look in the corresponding Slack channel.
+
 <!-- You can watch the 
      [recorded talks](https://www.youtube.com/playlist?list=PL-1wKlUbAzGTjZjLcOduALuoZ3aupVSqe) for this day.  (FIX LINK) -->
 
@@ -20,7 +25,7 @@ and made available on YouTube.
 <b>  Invited talk - <a href="{{site.baseurl}}/speakers/ute_schmid/">Ute Schmid</a> </b><br>
 <a href="https://www.uni-bamberg.de/en/cogsys/schmid/">Head of the Cognitive Systems Group, University of Bamberg</a>
 <br><a href="{{site.baseurl}}/talks/#schmid">Reconciling knowledge-based and data-driven AI for human-in-the-loop
-  machine learning</a> <a onClick="goToSlackChannel(103)"> (on Slack #invited103-schmid)</a>
+  machine learning</a>  - <a href="{{site.baseurl}}/data/slides/invited-schmid-slides.pdf">(S)</a><a onClick="goToSlackChannel(103)"> (on Slack #invited103-schmid)</a>
   </td>
   </tr>
 
@@ -28,9 +33,14 @@ and made available on YouTube.
   <td id="session5"> <span class="schedtime"> 11:45 AM - 12:45 PM </span></td><td> <b> Session 5</b>
 <!-- ###### Chaired by TBD -->
   <ol>
-   <li> <a href="{{site.baseurl}}/data/ACS-21_paper_4.pdf">Knowledge Engineering in the Long Game of Artificial Intelligence: The Case of Speech Acts</a>, Marjorie McShane, Jesse
+   <li> <a href="{{site.baseurl}}/data/ACS-21_paper_4.pdf">Knowledge
+  Engineering in the Long Game of Artificial Intelligence: The Case of
+  Speech Acts</a> - <a href="{{site.baseurl}}/data/slides/paper04-slides-mcshane.pdf">(S)</a>, Marjorie McShane, Jesse
    English and Sergei Nirenburg. <a onClick="goToSlackChannel(4)"> (on Slack #paper04-mcshane)</a></li>
-   <li> <a href="{{site.baseurl}}/data/ACS-21_paper_13.pdf">Language Models as a Knowledge Source for Cognitive Agents</a>, Robert Wray, James Kirk and John Laird. <a onClick="goToSlackChannel(13)"> (on Slack #paper13-wray)</a></li>
+   <li> <a href="{{site.baseurl}}/data/ACS-21_paper_13.pdf">Language Models
+  as a Knowledge Source for Cognitive Agents</a> -  <a href="{{site.baseurl}}/data/slides/paper13-slides-wray-kirk-laird.pdf">(S)</a>,
+  Robert Wray, James Kirk and John Laird. 
+ <a onClick="goToSlackChannel(13)"> (on Slack #paper13-wray)</a></li>
   </ol>
   </td>
 </tr>
@@ -45,7 +55,7 @@ and made available on YouTube.
 <td> <b>  Herbert A. Simon Prize Talk - <a href="{{site.baseurl}}/speakers/james_allen/"> James Allen</a> </b><br>
     <a href="https://www.cs.rochester.edu/u/james/">University of
     Rochester</a> and <a href="https://www.ihmc.us/groups/jallen/">IHMC</a>, Founding Fellow of AAAI<br>
-    <a href="{{site.baseurl}}/talks/#allen">Conversational systems: Past, Present and future</a>  <a onClick="goToSlackChannel(102)"> (on Slack #invited02-allen)</a></td>
+    <a href="{{site.baseurl}}/talks/#allen">Conversational systems: Past, Present and future</a>  - <a href="{{site.baseurl}}/data/slides/invited-Allen-slides-SimonTalk.pdf">(S)</a> <a onClick="goToSlackChannel(102)"> (on Slack #invited02-allen)</a></td>
   </tr>
 
 
@@ -55,11 +65,13 @@ and made available on YouTube.
 <!-- ###### Chaired by TBD -->
   <ol>
 
-    <li> <a href="{{site.baseurl}}/data/ACS-21_paper_24.pdf">The Impact of Partner Expressions on Felt Emotion in the Iterated Prisoner’s Dilemma: An Event-level Analysis</a>, M. Angelika-Nikita, C.M. de
+    <li> <a href="{{site.baseurl}}/data/ACS-21_paper_24.pdf">The Impact of
+    Partner Expressions on Felt Emotion in the Iterated Prisoner’s Dilemma:
+    An Event-level Analysis</a> - <a href="{{site.baseurl}}/data/slides/paper24-slides-angelika-nikita.pdf">(S)</a>, M. Angelika-Nikita, C.M. de
     Melo, K. Terada, G. Lucas and J. Gratch. <a onClick="goToSlackChannel(24)"> (on Slack #paper24-angelika-nikita)</a></li>
 
    <li> <a href="{{site.baseurl}}/data/ACS-21_paper_15.pdf">Towards a Cognitive Model of
-    Collaborative Memory</a>, Willa Mannering, Suparana Rajaram and Michael
+    Collaborative Memory</a> - <a href="{{site.baseurl}}/data/slides/paper15-slides-mannering.pdf">(S)</a>, Willa Mannering, Suparana Rajaram and Michael
     Jones. <a onClick="goToSlackChannel(15)"> (on Slack #paper15-mannering)</a> </li> 
     
   </ol>
@@ -75,20 +87,27 @@ and made available on YouTube.
   <div class=shortnote>Short talks are 10 minutes plus 2 minutes for questions during changeover.</div>
 <!-- ###### Chaired by TBD -->
  <ol>
-  <li> <a href="{{site.baseurl}}/data/ACS-21_paper_5.pdf">Language Generation for Broad-Coverage, Explainable Cognitive Systems</a>,
+  <li> <a href="{{site.baseurl}}/data/ACS-21_paper_5.pdf">Language
+  Generation for Broad-Coverage, Explainable Cognitive Systems</a>
+  <!-- - <a -->
+  <!-- href="{{site.baseurl}}/data/slides/paper05-slides-mcshane.pdf">(S)</a> -->, 
   Marjorie McShane and Ivan Leon. <a onClick="goToSlackChannel(5)"> (on Slack #paper05-mcshane)</a></li>
-  <li> <a href="{{site.baseurl}}/data/ACS-21_paper_7.pdf">Physical Reasoning in an Open World</a>,
+  <li> <a href="{{site.baseurl}}/data/ACS-21_paper_7.pdf">Physical
+  Reasoning in an Open World</a> - <a href="{{site.baseurl}}/data/slides/paper07-slides-zeng-davis.pdf">(S)</a>,
   Zhuoran Zeng and Ernest Davis. <a onClick="goToSlackChannel(7)"> (on Slack #paper07-zeng)</a></li>
-  <li> <a href="{{site.baseurl}}/data/ACS-21_paper_18.pdf">Task Modifiers for HTN Planning and Acting</a>,
+  <li> <a href="{{site.baseurl}}/data/ACS-21_paper_18.pdf">Task Modifiers
+  for HTN Planning and Acting</a> - <a href="{{site.baseurl}}/data/slides/paper18-slides-yuan.pdf">(S)</a>,
   W. Yuan, H. Munoz-Avila, V.R.Gogineni, S. Kondrakunta, M. Cox and L. He. <a onClick="goToSlackChannel(18)"> (on Slack #paper18-yuan)</a></li>
 
-   <li> <a href="{{site.baseurl}}/data/ACS-21_paper_23.pdf">Finding Trolls Under Bridges: Preliminary Work on a Motif Detector</a>,
+   <li> <a href="{{site.baseurl}}/data/ACS-21_paper_23.pdf">Finding Trolls
+   Under Bridges: Preliminary Work on a Motif Detector</a> - <a href="{{site.baseurl}}/data/slides/paper23-slides-yarlott.pdf">(S)</a>,
    W.V. Yarlott, A. Ochoa, A. Acharya, L. Bobrow, D. C. Estrada, D. Gomez,
    J. Zheng, D. McDonald, C. Miller and M. A. Finlayson<a onClick="goToSlackChannel(23)"> (on Slack #paper23-yarlott)</a></li>
-   <li> <a href="{{site.baseurl}}/data/ACS-21_paper_10.pdf">Lensing Machines: Representing Perspective in Latent Variable Models</a>, Karthik Dinakar and Henry Lieberman. <a onClick="goToSlackChannel(10)"> (on Slack #paper10-dinakar)</a></li>
+   <li> <a href="{{site.baseurl}}/data/ACS-21_paper_10.pdf">Lensing
+   Machines: Representing Perspective in Latent Variable Models</a> - <a href="{{site.baseurl}}/data/slides/paper10-slides-kinakar-liberman.pdf">(S)</a>, Karthik Dinakar and Henry Lieberman. <a onClick="goToSlackChannel(10)"> (on Slack #paper10-dinakar)</a></li>
   <li> <a href="{{site.baseurl}}/data/ACS-21_paper_22.pdf">An explainability analysis of a
    sentiment prediction task using a transformer-based attention
-   filter</a>, Neşet Özkan Tan, Joshua Bensemann, Diana Benavides-Prado,
+   filter</a> - <a href="{{site.baseurl}}/data/slides/paper22-slides-tan.pdf">(S)</a>, Neşet Özkan Tan, Joshua Bensemann, Diana Benavides-Prado,
    Yang Chen, Mark Gahegan, Lia Lee, Alex Yuxuan Peng, Patricia Riddle and
    Michael Witbrock. <a onClick="goToSlackChannel(22)"> (on Slack #paper22-tan)</a></li>
   </ol>
