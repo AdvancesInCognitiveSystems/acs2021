@@ -89,8 +89,7 @@ Paper PDFs are available by clicking on talk titles. For slides, click on
  <ol>
   <li> <a href="{{site.baseurl}}/data/ACS-21_paper_5.pdf">Language
   Generation for Broad-Coverage, Explainable Cognitive Systems</a>
-  <!-- - <a -->
-  <!-- href="{{site.baseurl}}/data/slides/paper05-slides-mcshane.pdf">(S)</a> -->, 
+   - <a href="{{site.baseurl}}/data/slides/paper05-slides-mcshane-leon.pdf">(S)</a>,
   Marjorie McShane and Ivan Leon. <a onClick="goToSlackChannel(5)"> (on Slack #paper05-mcshane)</a></li>
   <li> <a href="{{site.baseurl}}/data/ACS-21_paper_7.pdf">Physical
   Reasoning in an Open World</a> - <a href="{{site.baseurl}}/data/slides/paper07-slides-zeng-davis.pdf">(S)</a>,
