@@ -6,8 +6,10 @@ day: wednesday-day2
 ---
 
 
-*All times are Eastern Time (GMT-5). Talks will be made available on
- YouTube after December 1.
+*All times are Eastern Time (GMT-5). This day's session talks are available on YouTube
+at
+[ACS 2021 Day 2](https://www.youtube.com/playlist?list=PL-1wKlUbAzGTQ-jqenM3OHpSNcFka6VOl).
+Invited talks are linked directly as shown below.
 
 Paper PDFs are available by clicking on talk titles. For slides, click on
 (S) after title, or look in the corresponding Slack channel.
@@ -25,7 +27,12 @@ Paper PDFs are available by clicking on talk titles. For slides, click on
 <b>  Invited talk - <a href="{{site.baseurl}}/speakers/ute_schmid/">Ute Schmid</a> </b><br>
 <a href="https://www.uni-bamberg.de/en/cogsys/schmid/">Head of the Cognitive Systems Group, University of Bamberg</a>
 <br><a href="{{site.baseurl}}/talks/#schmid">Reconciling knowledge-based and data-driven AI for human-in-the-loop
-  machine learning</a>  - <a href="{{site.baseurl}}/data/slides/invited-schmid-slides.pdf">(S)</a><a onClick="goToSlackChannel(103)"> (on Slack #invited103-schmid)</a>
+  machine learning</a>  - <a
+  href="{{site.baseurl}}/data/slides/invited-schmid-slides.pdf">(S)</a><a
+  onClick="goToSlackChannel(103)"> (on Slack #invited103-schmid)</a>
+  or <a
+ href="https://www.youtube.com/watch?v=QoC3th7roi4&list=PL-1wKlUbAzGSdwkBuFJhELkCQ6Hz9u60C&index=2">View
+ on YouTube</a>
   </td>
   </tr>
 
@@ -55,7 +62,13 @@ Paper PDFs are available by clicking on talk titles. For slides, click on
 <td> <b>  Herbert A. Simon Prize Talk - <a href="{{site.baseurl}}/speakers/james_allen/"> James Allen</a> </b><br>
     <a href="https://www.cs.rochester.edu/u/james/">University of
     Rochester</a> and <a href="https://www.ihmc.us/groups/jallen/">IHMC</a>, Founding Fellow of AAAI<br>
-    <a href="{{site.baseurl}}/talks/#allen">Conversational systems: Past, Present and future</a>  - <a href="{{site.baseurl}}/data/slides/invited-Allen-slides-SimonTalk.pdf">(S)</a> <a onClick="goToSlackChannel(102)"> (on Slack #invited02-allen)</a></td>
+    <a href="{{site.baseurl}}/talks/#allen">Conversational systems: Past,
+    Present and future</a>  - <a
+    href="{{site.baseurl}}/data/slides/invited-Allen-slides-SimonTalk.pdf">(S)</a>
+    <a onClick="goToSlackChannel(102)"> (on Slack #invited02-allen)</a>
+     or <a
+ href="https://www.youtube.com/watch?v=4IGfMcxUrLs&list=PL-1wKlUbAzGSdwkBuFJhELkCQ6Hz9u60C&index=1">View
+ on YouTube</a></td>
   </tr>
 
 

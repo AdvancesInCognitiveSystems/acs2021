@@ -5,14 +5,15 @@ supertitle: Schedule
 day: tuesday-day1
 ---
 
-*All times are Eastern Time (GMT-5). Talks will be made available on
- YouTube after December 1.
+*All times are Eastern Time (GMT-5). This day's session talks are available on YouTube
+at
+[ACS 2021 Day 1](https://www.youtube.com/playlist?list=PL-1wKlUbAzGSlUlf92yCfbYlUV8WWkuFT).
+Invited talks are linked directly as shown below.
+
 
 Paper PDFs are available by clicking on talk titles. For slides, click on
 (S) after title, or look in the corresponding Slack channel.
 
-<!-- You can watch the 
-     [recorded talks](https://www.youtube.com/playlist?list=PL-1wKlUbAzGTjZjLcOduALuoZ3aupVSqe) for this day.  (FIX LINK) -->
 
 <table>
 <tr>
@@ -53,6 +54,9 @@ the Harding Center for Risk Literacy, University of Potsdam</a><br>
 <a href="{{site.baseurl}}/talks/#gigerenzer">Psychological AI: Simplicity and Transparency in Prediction</a> 
 - <a href="{{site.baseurl}}/data/slides/invited-Gigerenzer-slides.pdf">(S)</a>
  <a onClick="goToSlackChannel(101)"> (on Slack #invited01-gigerenzer)</a>
+ or <a
+ href="https://www.youtube.com/watch?v=AYBFA2rUhrE&list=PL-1wKlUbAzGSdwkBuFJhELkCQ6Hz9u60C&index=4">View
+ on YouTube</a>
   </td>
 </tr>
 

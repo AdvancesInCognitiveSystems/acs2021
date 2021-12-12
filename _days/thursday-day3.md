@@ -4,13 +4,14 @@ title:  "Thursday, November 18th"
 supertitle: Schedule
 day: thursday-day3
 ---
-*All times are Eastern Time (GMT-5). Talks will be made available on
- YouTube after December 1.
+*All times are Eastern Time (GMT-5). This day's session talks are available on YouTube
+at
+[ACS 2021 Day 3](https://www.youtube.com/playlist?list=PL-1wKlUbAzGREFYYWzju_6W_8BW638AEq).
+Invited talks are linked directly as shown below.
 
 Paper PDFs are available by clicking on talk titles. For slides, click on
 (S) after title, or look in the corresponding Slack channel.
-<!-- You can watch the 
-     [recorded talks](https://www.youtube.com/playlist?list=PL-1wKlUbAzGTjZjLcOduALuoZ3aupVSqe) for this day.  (FIX LINK) -->
+
 
 
 <table>
@@ -47,7 +48,12 @@ Kondrakunta, Ventaksamapth Raja Gogineni, Dustin Dannenhauer and Othalia Larue <
   <td> <span class="schedtime"> 1:00 PM - 1:45 PM </span></td><td> 
 <b>  Invited talk - <a href="{{site.baseurl}}/speakers/Anthony_Cohn/"> Anthony Cohn</a> </b><br>
 <a href="https://eps.leeds.ac.uk/computing/staff/76/professor-anthony-g-cohn-freng-ceng-citp">Professor of Automated Reasoning, University of Leeds</a><br>
-<a href="{{site.baseurl}}/talks/#cohn">Manipulation in cluttered environments and interacting with robots</a> - <a href="{{site.baseurl}}/data/slides/invited-cohn-slides.pdf">(S)</a> <a onClick="goToSlackChannel(104)"> (on Slack #invited04-cohn)</a>
+<a href="{{site.baseurl}}/talks/#cohn">Manipulation in cluttered
+  environments and interacting with robots</a> - <a
+  href="{{site.baseurl}}/data/slides/invited-cohn-slides.pdf">(S)</a> <a
+  onClick="goToSlackChannel(104)"> (on Slack #invited04-cohn)</a> or <a
+ href="https://www.youtube.com/watch?v=5GO9xvWPPQ4&list=PL-1wKlUbAzGSdwkBuFJhELkCQ6Hz9u60C&index=3">View
+ on YouTube</a>
   </td>
 </tr>
 <tr>
