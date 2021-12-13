@@ -5,10 +5,7 @@ supertitle: Schedule
 day: monday-day0
 ---
 
-*Schedule still subject to change. Please note that all times are Eastern Time (GMT-5). Talks will be recorded
-and made available on YouTube. 
-<!-- You can watch the 
-     [recorded talks](https://www.youtube.com/playlist?list=PL-1wKlUbAzGTjZjLcOduALuoZ3aupVSqe) for this day.  (FIX LINK) -->
+
 
 <table style="width:100%">
 <tr>
